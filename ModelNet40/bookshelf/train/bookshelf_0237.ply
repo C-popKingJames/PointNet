@@ -1,0 +1,137 @@
+ply
+format binary_little_endian 1.0
+element vertex 1064
+comment vertices
+property float x
+property float y
+property float z
+element face 528
+comment faces
+property list uchar int vertex_indices
+end_header
+4 @Âd»Aø{Á£RÅÁd»Aø{ÁÝd¾Ád»Aø{Á»¸Ý¾d»Aø{ÁD @Bd»Aø{Á£RÅAd»Aø{ÁÝd¾Ad»Aø{Á»¸Ý>d»Aø{ÁD©”Ád»Á‘Ï—A»Ád»Á-¡pÁ»Ád»Á‘Ï—AD©”Ád»Á-¡pÁD©”Ád»Á-¡pÁD©”Ád»Á‘Ï—A»Ád»Á-¡pÁ»Ád»Á‘Ï—A»Ád»A-¡pÁ»Ád»Á‘Ï—A»Ád»Á-¡pÁ»Ád»A‘Ï—A»Ád»A‘Ï—A»Ád»A-¡pÁ»Ád»Á‘Ï—A»Ád»Á-¡pÁ»Ád»A‘Ï—AD©”Ád»Á‘Ï—A»Ád»Á‘Ï—AD©”Ád»A‘Ï—AD©”Ád»A‘Ï—A»Ád»A‘Ï—AD©”Ád»Á‘Ï—A»Ád»Á‘Ï—AD©”Ád»Á‘Ï—AD©”Ád»A-¡pÁD©”Ád»Á-¡pÁD©”Ád»A‘Ï—AD©”Ád»A‘Ï—AD©”Ád»Á‘Ï—AD©”Ád»A-¡pÁD©”Ád»Á-¡pÁD©”Ád»A-¡pÁ»Ád»Á-¡pÁD©”Ád»Á-¡pÁ»Ád»A-¡pÁ»Ád»A-¡pÁD©”Ád»A-¡pÁ»Ád»Á-¡pÁD©”Ád»Á-¡pÁD©”Ád»A-¡pÁ»Ád»A‘Ï—A»Ád»A-¡pÁD©”Ád»A‘Ï—AD©”Ád»A‘Ï—AD©”Ád»A-¡pÁ»Ád»A‘Ï—A»Ád»A-¡pÁ»Ad»Á‘Ï—AD©”Ad»Á-¡pÁD©”Ad»Á‘Ï—A»Ad»Á-¡pÁ»Ad»Á-¡pÁ»Ad»Á‘Ï—AD©”Ad»Á-¡pÁD©”Ad»Á‘Ï—AD©”Ad»A-¡pÁD©”Ad»Á‘Ï—AD©”Ad»Á-¡pÁD©”Ad»A‘Ï—AD©”Ad»A‘Ï—AD©”Ad»A-¡pÁD©”Ad»Á‘Ï—AD©”Ad»Á-¡pÁD©”Ad»A‘Ï—A»Ad»Á‘Ï—AD©”Ad»Á‘Ï—A»Ad»A‘Ï—A»Ad»A‘Ï—AD©”Ad»A‘Ï—A»Ad»Á‘Ï—AD©”Ad»Á‘Ï—A»Ad»Á‘Ï—A»Ad»A-¡pÁ»Ad»Á-¡pÁ»Ad»A‘Ï—A»Ad»A‘Ï—A»Ad»Á‘Ï—A»Ad»A-¡pÁ»Ad»Á-¡pÁ»Ad»A-¡pÁD©”Ad»Á-¡pÁ»Ad»Á-¡pÁD©”Ad»A-¡pÁD©”Ad»A-¡pÁ»Ad»A-¡pÁD©”Ad»Á-¡pÁ»Ad»Á-¡pÁ»Ad»A-¡pÁD©”Ad»A‘Ï—AD©”Ad»A-¡pÁ»Ad»A‘Ï—A»Ad»A‘Ï—A»Ad»A-¡pÁD©”Ad»A‘Ï—AD©”Ad»A-¡pÁ4 @Âd»Aq»B4 @Âd»Áä÷ûÁ4 @Âd»Aä÷ûÁ4 @Âd»Áq»B4 @Âd»Áq»B4 @Âd»Aq»B4 @Âd»Áä÷ûÁ4 @Âd»Aä÷ûÁ2—CÂd»Aä÷ûÁ4 @Âd»Áä÷ûÁ2—CÂd»Áä÷ûÁ4 @Âd»Aä÷ûÁ4 @Âd»Aä÷ûÁ2—CÂd»Aä÷ûÁ4 @Âd»Áä÷ûÁ2—CÂd»Áä÷ûÁ2—CÂd»Aä÷ûÁ4 @Âd»Aq»B4 @Âd»Aä÷ûÁ2—CÂd»Aq»B2—CÂd»Aq»B2—CÂd»Aä÷ûÁ4 @Âd»Aq»B4 @Âd»Aä÷ûÁ4 @Âd»Aq»B2—CÂd»Áq»B4 @Âd»Áq»B2—CÂd»Aq»B2—CÂd»Aq»B4 @Âd»Aq»B2—CÂd»Áq»B4 @Âd»Áq»B2—CÂd»Áq»B4 @Âd»Áä÷ûÁ4 @Âd»Áq»B2—CÂd»Áä÷ûÁ2—CÂd»Áä÷ûÁ2—CÂd»Áq»B4 @Âd»Áä÷ûÁ4 @Âd»Áq»B2—CÂd»Áq»B2—CÂd»Aä÷ûÁ2—CÂd»Áä÷ûÁ2—CÂd»Aq»B2—CÂd»Aq»B2—CÂd»Áq»B2—CÂd»Aä÷ûÁ2—CÂd»Áä÷ûÁ2—CBd»Aq»B2—CBd»Áä÷ûÁ2—CBd»Aä÷ûÁ2—CBd»Áq»B2—CBd»Áq»B2—CBd»Aq»B2—CBd»Áä÷ûÁ2—CBd»Aä÷ûÁD @Bd»Aä÷ûÁ2—CBd»Áä÷ûÁD @Bd»Áä÷ûÁ2—CBd»Aä÷ûÁ2—CBd»Aä÷ûÁD @Bd»Aä÷ûÁ2—CBd»Áä÷ûÁD @Bd»Áä÷ûÁD @Bd»Aä÷ûÁ2—CBd»Aq»B2—CBd»Aä÷ûÁD @Bd»Aq»BD @Bd»Aq»BD @Bd»Aä÷ûÁ2—CBd»Aq»B2—CBd»Aä÷ûÁ2—CBd»Aq»BD @Bd»Áq»B2—CBd»Áq»BD @Bd»Aq»BD @Bd»Aq»B2—CBd»Aq»BD @Bd»Áq»B2—CBd»Áq»BD @Bd»Áq»B2—CBd»Áä÷ûÁ2—CBd»Áq»BD @Bd»Áä÷ûÁD @Bd»Áä÷ûÁD @Bd»Áq»B2—CBd»Áä÷ûÁ2—CBd»Áq»BD @Bd»Áq»BD @Bd»Aä÷ûÁD @Bd»Áä÷ûÁD @Bd»Aq»BD @Bd»Aq»BD @Bd»Áq»BD @Bd»Aä÷ûÁD @Bd»Áä÷ûÁ4 @Âd»AÖå
+BD @Bd»ÁÖå
+B4 @Âd»ÁÖå
+BD @Bd»AÖå
+BD @Bd»AÖå
+B4 @Âd»AÖå
+BD @Bd»ÁÖå
+B4 @Âd»ÁÖå
+BD @Bd»Aq»BD @Bd»ÁÖå
+BD @Bd»AÖå
+BD @Bd»Áq»BD @Bd»Áq»BD @Bd»Aq»BD @Bd»ÁÖå
+BD @Bd»AÖå
+B4 @Âd»Áq»BD @Bd»ÁÖå
+BD @Bd»Áq»B4 @Âd»ÁÖå
+B4 @Âd»ÁÖå
+B4 @Âd»Áq»BD @Bd»ÁÖå
+BD @Bd»Áq»B4 @Âd»Áq»B4 @Âd»AÖå
+B4 @Âd»ÁÖå
+B4 @Âd»Aq»B4 @Âd»Aq»B4 @Âd»Áq»B4 @Âd»AÖå
+B4 @Âd»ÁÖå
+B4 @Âd»AÖå
+BD @Bd»Aq»BD @Bd»AÖå
+B4 @Âd»Aq»B4 @Âd»Aq»B4 @Âd»AÖå
+BD @Bd»Aq»BD @Bd»AÖå
+BD @Bd»Aq»B4 @Âd»Áq»BD @Bd»Áq»B4 @Âd»Aq»B4 @Âd»Aq»BD @Bd»Aq»B4 @Âd»Áq»BD @Bd»Áq»B4 @Âd»Áä÷ûÁD @Bd»Áq»ÂD @Bd»Áä÷ûÁ4 @Âd»Áq»Â4 @Âd»Áq»Â4 @Âd»Áä÷ûÁD @Bd»Áq»ÂD @Bd»Áä÷ûÁ4 @Âd»Áä÷ûÁ4 @Âd»Aq»Â4 @Âd»Áq»Â4 @Âd»Aä÷ûÁ4 @Âd»Aä÷ûÁ4 @Âd»Áä÷ûÁ4 @Âd»Aq»Â4 @Âd»Áq»Â4 @Âd»Aq»ÂD @Bd»Áq»Â4 @Âd»Áq»ÂD @Bd»Aq»ÂD @Bd»Aq»Â4 @Âd»Aq»ÂD @Bd»Áq»Â4 @Âd»Áq»ÂD @Bd»Aä÷ûÁD @Bd»Áq»ÂD @Bd»Aq»ÂD @Bd»Áä÷ûÁD @Bd»Áä÷ûÁD @Bd»Aä÷ûÁD @Bd»Áq»ÂD @Bd»Aq»ÂD @Bd»Aä÷ûÁ4 @Âd»Áä÷ûÁD @Bd»Áä÷ûÁ4 @Âd»Aä÷ûÁ4 @Âd»Aä÷ûÁD @Bd»Aä÷ûÁ4 @Âd»Áä÷ûÁD @Bd»Áä÷ûÁ4 @Âd»Aq»ÂD @Bd»Aä÷ûÁD @Bd»Aq»Â4 @Âd»Aä÷ûÁ4 @Âd»Aä÷ûÁ4 @Âd»Aq»ÂD @Bd»Aä÷ûÁD @Bd»Aq»Â4 @Âd»Aä÷ûÁD @Bd»Áä÷ûÁ4 @Âd»Áä÷ûÁD @Bd»Aä÷ûÁD @Bd»Aä÷ûÁ4 @Âd»Aä÷ûÁD @Bd»Áä÷ûÁ4 @Âd»Áä÷ûÁD @Bd»AŽLöÁD @Bd»Áä÷ûÁD @Bd»Aä÷ûÁD @Bd»ÁŽLöÁD @Bd»ÁŽLöÁD @Bd»AŽLöÁD @Bd»Áä÷ûÁD @Bd»Aä÷ûÁ4 @Âd»ÁŽLöÁD @Bd»Áä÷ûÁD @Bd»ÁŽLöÁ4 @Âd»Áä÷ûÁ4 @Âd»Áä÷ûÁ4 @Âd»ÁŽLöÁD @Bd»Áä÷ûÁD @Bd»ÁŽLöÁ4 @Âd»ÁŽLöÁ4 @Âd»Aä÷ûÁ4 @Âd»Áä÷ûÁ4 @Âd»AŽLöÁ4 @Âd»AŽLöÁ4 @Âd»ÁŽLöÁ4 @Âd»Aä÷ûÁ4 @Âd»Áä÷ûÁ4 @Âd»Aä÷ûÁD @Bd»AŽLöÁD @Bd»Aä÷ûÁ4 @Âd»AŽLöÁ4 @Âd»AŽLöÁ4 @Âd»Aä÷ûÁD @Bd»AŽLöÁD @Bd»Aä÷ûÁD @Bd»AŽLöÁ4 @Âd»ÁŽLöÁD @Bd»ÁŽLöÁ4 @Âd»AŽLöÁ4 @Âd»AŽLöÁD @Bd»AŽLöÁ4 @Âd»ÁŽLöÁD @Bd»ÁŽLöÁ4 @Âd»A‘Ï—AD @Bd»Á‘Ï—A4 @Âd»Á‘Ï—AD @Bd»A‘Ï—AD @Bd»A‘Ï—A4 @Âd»A‘Ï—AD @Bd»Á‘Ï—A4 @Âd»Á‘Ï—AD @Bd»AûzAD @Bd»Á‘Ï—AD @Bd»A‘Ï—AD @Bd»ÁûzAD @Bd»ÁûzAD @Bd»AûzAD @Bd»Á‘Ï—AD @Bd»A‘Ï—A4 @Âd»ÁûzAD @Bd»Á‘Ï—AD @Bd»ÁûzA4 @Âd»Á‘Ï—A4 @Âd»Á‘Ï—A4 @Âd»ÁûzAD @Bd»Á‘Ï—AD @Bd»ÁûzA4 @Âd»ÁûzA4 @Âd»A‘Ï—A4 @Âd»Á‘Ï—A4 @Âd»AûzA4 @Âd»AûzA4 @Âd»ÁûzA4 @Âd»A‘Ï—A4 @Âd»Á‘Ï—A4 @Âd»A‘Ï—AD @Bd»AûzAD @Bd»A‘Ï—A4 @Âd»AûzA4 @Âd»AûzA4 @Âd»A‘Ï—AD @Bd»AûzAD @Bd»A‘Ï—AD @Bd»AûzA4 @Âd»ÁûzAD @Bd»ÁûzA4 @Âd»AûzA4 @Âd»AûzAD @Bd»AûzA4 @Âd»ÁûzAD @Bd»ÁûzA4 @Âd»Aø{ÁD @Bd»Áø{Á4 @Âd»Áø{ÁD @Bd»Aø{ÁD @Bd»Aø{Á4 @Âd»Aø{ÁD @Bd»Áø{Á4 @Âd»Áø{ÁD @Bd»A-¡pÁD @Bd»Áø{ÁD @Bd»Aø{ÁD @Bd»Á-¡pÁD @Bd»Á-¡pÁD @Bd»A-¡pÁD @Bd»Áø{ÁD @Bd»Aø{Á4 @Âd»Á-¡pÁD @Bd»Áø{ÁD @Bd»Á-¡pÁ4 @Âd»Áø{Á4 @Âd»Áø{Á4 @Âd»Á-¡pÁD @Bd»Áø{ÁD @Bd»Á-¡pÁ4 @Âd»Á-¡pÁ4 @Âd»Aø{Á4 @Âd»Áø{Á4 @Âd»A-¡pÁ4 @Âd»A-¡pÁ4 @Âd»Á-¡pÁ4 @Âd»Aø{Á4 @Âd»Áø{Á4 @Âd»Aø{ÁD @Bd»A-¡pÁD @Bd»Aø{Á4 @Âd»A-¡pÁ4 @Âd»A-¡pÁ4 @Âd»Aø{ÁD @Bd»A-¡pÁD @Bd»Aø{ÁD @Bd»A-¡pÁ4 @Âd»Á-¡pÁD @Bd»Á-¡pÁ4 @Âd»A-¡pÁ4 @Âd»A-¡pÁD @Bd»A-¡pÁ4 @Âd»Á-¡pÁD @Bd»Á-¡pÁÂd»A‘Ï—AÂd»ÁHáÀÂd»AHáÀÂd»Á‘Ï—AÂd»Á‘Ï—AÂd»A‘Ï—AÂd»ÁHáÀÂd»AHáÀêõÂd»AHáÀÂd»A‘Ï—AÂd»AHáÀêõÂd»A‘Ï—AêõÂd»A‘Ï—AêõÂd»AHáÀÂd»A‘Ï—AÂd»AHáÀÂd»A‘Ï—AêõÂd»Á‘Ï—AÂd»Á‘Ï—AêõÂd»A‘Ï—AêõÂd»A‘Ï—AÂd»A‘Ï—AêõÂd»Á‘Ï—AÂd»Á‘Ï—AêõÂd»Á‘Ï—AÂd»ÁHáÀÂd»Á‘Ï—AêõÂd»ÁHáÀêõÂd»ÁHáÀêõÂd»Á‘Ï—AÂd»ÁHáÀÂd»Á‘Ï—AêõÂd»AHáÀÂd»ÁHáÀêõÂd»ÁHáÀÂd»AHáÀÂd»AHáÀêõÂd»AHáÀÂd»ÁHáÀêõÂd»ÁHáÀêõÂd»Á‘Ï—AêõÂd»AHáÀêõÂd»ÁHáÀêõÂd»A‘Ï—AêõÂd»A‘Ï—AêõÂd»Á‘Ï—AêõÂd»AHáÀêõÂd»ÁHáÀ€—
+Bd»A˜îA€—
+Bd»Á-¡pÁ€—
+Bd»A-¡pÁ€—
+Bd»Á˜îA€—
+Bd»Á˜îA€—
+Bd»A˜îA€—
+Bd»Á-¡pÁ€—
+Bd»A-¡pÁƒ Bd»A-¡pÁ€—
+Bd»A˜îA€—
+Bd»A-¡pÁƒ Bd»A˜îAƒ Bd»A˜îAƒ Bd»A-¡pÁ€—
+Bd»A˜îA€—
+Bd»A-¡pÁ€—
+Bd»A˜îAƒ Bd»Á˜îA€—
+Bd»Á˜îAƒ Bd»A˜îAƒ Bd»A˜îA€—
+Bd»A˜îAƒ Bd»Á˜îA€—
+Bd»Á˜îAƒ Bd»Á˜îA€—
+Bd»Á-¡pÁ€—
+Bd»Á˜îAƒ Bd»Á-¡pÁƒ Bd»Á-¡pÁƒ Bd»Á˜îA€—
+Bd»Á-¡pÁ€—
+Bd»Á˜îAƒ Bd»A-¡pÁ€—
+Bd»Á-¡pÁƒ Bd»Á-¡pÁ€—
+Bd»A-¡pÁ€—
+Bd»A-¡pÁƒ Bd»A-¡pÁ€—
+Bd»Á-¡pÁƒ Bd»Á-¡pÁƒ Bd»Á˜îAƒ Bd»A-¡pÁƒ Bd»Á-¡pÁƒ Bd»A˜îAƒ Bd»A˜îAƒ Bd»Á˜îAƒ Bd»A-¡pÁƒ Bd»Á-¡pÁD @Bd»AŒÊAD @Bd»Á˜îAD @Bd»A˜îAD @Bd»ÁŒÊAD @Bd»ÁŒÊAD @Bd»AŒÊAD @Bd»Á˜îAD @Bd»A˜îAD©”Ad»A˜îAD @Bd»Á˜îAD©”Ad»Á˜îAD @Bd»A˜îAD @Bd»A˜îAD©”Ad»A˜îAD @Bd»Á˜îAD©”Ad»Á˜îAD©”Ad»A˜îAD @Bd»AŒÊAD @Bd»A˜îAD©”Ad»AŒÊAD©”Ad»AŒÊAD©”Ad»A˜îAD @Bd»AŒÊAD @Bd»A˜îAD @Bd»AŒÊAD©”Ad»ÁŒÊAD @Bd»ÁŒÊAD©”Ad»AŒÊAD©”Ad»AŒÊAD @Bd»AŒÊAD©”Ad»ÁŒÊAD @Bd»ÁŒÊAD©”Ad»ÁŒÊAD @Bd»Á˜îAD @Bd»ÁŒÊAD©”Ad»Á˜îAD©”Ad»Á˜îAD©”Ad»ÁŒÊAD @Bd»Á˜îAD @Bd»ÁŒÊAD©”Ad»ÁŒÊAD©”Ad»A˜îAD©”Ad»Á˜îAD©”Ad»AŒÊAD©”Ad»AŒÊAD©”Ad»ÁŒÊAD©”Ad»A˜îAD©”Ad»Á˜îAHPëÀd»AÅÏ—AHPëÀd»Áÿ²@HPëÀd»Aÿ²@HPëÀd»ÁÅÏ—AHPëÀd»ÁÅÏ—AHPëÀd»AÅÏ—AHPëÀd»Áÿ²@HPëÀd»Aÿ²@°ƒÁd»Aÿ²@HPëÀd»AÅÏ—AHPëÀd»Aÿ²@°ƒÁd»AÅÏ—A°ƒÁd»AÅÏ—A°ƒÁd»Aÿ²@HPëÀd»AÅÏ—AHPëÀd»Aÿ²@HPëÀd»AÅÏ—A°ƒÁd»ÁÅÏ—AHPëÀd»ÁÅÏ—A°ƒÁd»AÅÏ—A°ƒÁd»AÅÏ—AHPëÀd»AÅÏ—A°ƒÁd»ÁÅÏ—AHPëÀd»ÁÅÏ—A°ƒÁd»ÁÅÏ—AHPëÀd»Áÿ²@HPëÀd»ÁÅÏ—A°ƒÁd»Áÿ²@°ƒÁd»Áÿ²@°ƒÁd»ÁÅÏ—AHPëÀd»Áÿ²@HPëÀd»ÁÅÏ—A°ƒÁd»Aÿ²@HPëÀd»Áÿ²@°ƒÁd»Áÿ²@HPëÀd»Aÿ²@HPëÀd»Aÿ²@°ƒÁd»Aÿ²@HPëÀd»Áÿ²@°ƒÁd»Áÿ²@°ƒÁd»ÁÅÏ—A°ƒÁd»Aÿ²@°ƒÁd»Áÿ²@°ƒÁd»AÅÏ—A°ƒÁd»AÅÏ—A°ƒÁd»ÁÅÏ—A°ƒÁd»Aÿ²@°ƒÁd»Áÿ²@êÿ@d»A ‰Ä?êÿ@d»Á-¡pÁêÿ@d»A-¡pÁêÿ@d»Á ‰Ä?êÿ@d»Á ‰Ä?êÿ@d»A ‰Ä?êÿ@d»Á-¡pÁêÿ@d»A-¡pÁMã@d»A-¡pÁêÿ@d»A ‰Ä?êÿ@d»A-¡pÁMã@d»A ‰Ä?Mã@d»A ‰Ä?Mã@d»A-¡pÁêÿ@d»A ‰Ä?êÿ@d»A-¡pÁêÿ@d»A ‰Ä?Mã@d»Á ‰Ä?êÿ@d»Á ‰Ä?Mã@d»A ‰Ä?Mã@d»A ‰Ä?êÿ@d»A ‰Ä?Mã@d»Á ‰Ä?êÿ@d»Á ‰Ä?Mã@d»Á ‰Ä?êÿ@d»Á-¡pÁêÿ@d»Á ‰Ä?Mã@d»Á-¡pÁMã@d»Á-¡pÁMã@d»Á ‰Ä?êÿ@d»Á-¡pÁêÿ@d»Á ‰Ä?Mã@d»A-¡pÁêÿ@d»Á-¡pÁMã@d»Á-¡pÁêÿ@d»A-¡pÁêÿ@d»A-¡pÁMã@d»A-¡pÁêÿ@d»Á-¡pÁMã@d»Á-¡pÁMã@d»Á ‰Ä?Mã@d»A-¡pÁMã@d»Á-¡pÁMã@d»A ‰Ä?Mã@d»A ‰Ä?Mã@d»Á ‰Ä?Mã@d»A-¡pÁMã@d»Á-¡pÁÝd¾Ad»Áø{ÁÝd¾Ad»AŽLöÁÝd¾Ad»ÁŽLöÁÝd¾Ad»Aø{ÁÝd¾Ad»Aø{ÁÝd¾Ad»Áø{ÁÝd¾Ad»AŽLöÁÝd¾Ad»ÁŽLöÁÝd¾Ad»Áø{Á£RÅAd»ÁŽLöÁ£RÅAd»Áø{ÁÝd¾Ad»ÁŽLöÁÝd¾Ad»ÁŽLöÁÝd¾Ad»Áø{Á£RÅAd»ÁŽLöÁ£RÅAd»Áø{Á£RÅAd»Aø{ÁÝd¾Ad»Áø{Á£RÅAd»Áø{ÁÝd¾Ad»Aø{ÁÝd¾Ad»Aø{Á£RÅAd»Aø{ÁÝd¾Ad»Áø{Á£RÅAd»Áø{Á£RÅAd»AŽLöÁÝd¾Ad»Aø{Á£RÅAd»Aø{ÁÝd¾Ad»AŽLöÁÝd¾Ad»AŽLöÁ£RÅAd»AŽLöÁÝd¾Ad»Aø{Á£RÅAd»Aø{ÁÝd¾Ad»ÁŽLöÁ£RÅAd»AŽLöÁ£RÅAd»ÁŽLöÁÝd¾Ad»AŽLöÁÝd¾Ad»AŽLöÁÝd¾Ad»ÁŽLöÁ£RÅAd»AŽLöÁ£RÅAd»ÁŽLöÁ£RÅAd»AŽLöÁ£RÅAd»Áø{Á£RÅAd»ÁŽLöÁ£RÅAd»Aø{Á£RÅAd»Aø{Á£RÅAd»AŽLöÁ£RÅAd»Áø{Á£RÅAd»ÁŽLöÁ»¸Ý>d»Aø{Á»¸Ý>d»ÁŽLöÁ»¸Ý>d»AŽLöÁ»¸Ý>d»Áø{Á»¸Ý>d»Áø{Á»¸Ý>d»Aø{Á»¸Ý>d»ÁŽLöÁ»¸Ý>d»AŽLöÁ»¸Ý¾d»AŽLöÁ»¸Ý>d»ÁŽLöÁ»¸Ý¾d»ÁŽLöÁ»¸Ý>d»AŽLöÁ»¸Ý>d»AŽLöÁ»¸Ý¾d»AŽLöÁ»¸Ý>d»ÁŽLöÁ»¸Ý¾d»ÁŽLöÁ»¸Ý¾d»AŽLöÁ»¸Ý>d»Aø{Á»¸Ý>d»AŽLöÁ»¸Ý¾d»Aø{Á»¸Ý¾d»Aø{Á»¸Ý¾d»AŽLöÁ»¸Ý>d»Aø{Á»¸Ý>d»AŽLöÁ»¸Ý>d»Aø{Á»¸Ý¾d»Áø{Á»¸Ý>d»Áø{Á»¸Ý¾d»Aø{Á»¸Ý¾d»Aø{Á»¸Ý>d»Aø{Á»¸Ý¾d»Áø{Á»¸Ý>d»Áø{Á»¸Ý¾d»Áø{Á»¸Ý>d»ÁŽLöÁ»¸Ý>d»Áø{Á»¸Ý¾d»ÁŽLöÁ»¸Ý¾d»ÁŽLöÁ»¸Ý¾d»Áø{Á»¸Ý>d»ÁŽLöÁ»¸Ý>d»Áø{Á»¸Ý¾d»Áø{Á»¸Ý¾d»AŽLöÁ»¸Ý¾d»ÁŽLöÁ»¸Ý¾d»Aø{Á»¸Ý¾d»Aø{Á»¸Ý¾d»Áø{Á»¸Ý¾d»AŽLöÁ»¸Ý¾d»ÁŽLöÁÝd¾Ád»AŽLöÁÝd¾Ád»Áø{ÁÝd¾Ád»ÁŽLöÁÝd¾Ád»Aø{ÁÝd¾Ád»Aø{ÁÝd¾Ád»AŽLöÁÝd¾Ád»Áø{ÁÝd¾Ád»ÁŽLöÁ£RÅÁd»Áø{ÁÝd¾Ád»ÁŽLöÁÝd¾Ád»Áø{Á£RÅÁd»ÁŽLöÁ£RÅÁd»ÁŽLöÁ£RÅÁd»Áø{ÁÝd¾Ád»ÁŽLöÁÝd¾Ád»Áø{Á£RÅÁd»AŽLöÁÝd¾Ád»ÁŽLöÁ£RÅÁd»ÁŽLöÁÝd¾Ád»AŽLöÁÝd¾Ád»AŽLöÁ£RÅÁd»AŽLöÁÝd¾Ád»ÁŽLöÁ£RÅÁd»ÁŽLöÁ£RÅÁd»AŽLöÁÝd¾Ád»Aø{ÁÝd¾Ád»AŽLöÁ£RÅÁd»Aø{Á£RÅÁd»Aø{Á£RÅÁd»AŽLöÁÝd¾Ád»Aø{ÁÝd¾Ád»AŽLöÁÝd¾Ád»Aø{Á£RÅÁd»Áø{ÁÝd¾Ád»Áø{Á£RÅÁd»Aø{Á£RÅÁd»Aø{ÁÝd¾Ád»Aø{Á£RÅÁd»Áø{ÁÝd¾Ád»Áø{Á£RÅÁd»Áø{Á£RÅÁd»AŽLöÁ£RÅÁd»ÁŽLöÁ£RÅÁd»Aø{Á£RÅÁd»Aø{Á£RÅÁd»Áø{Á£RÅÁd»AŽLöÁ£RÅÁd»ÁŽLöÁÝd¾Ad»ÁÖå
+BÝd¾Ad»AûzAÝd¾Ad»ÁûzAÝd¾Ad»AÖå
+BÝd¾Ad»AÖå
+BÝd¾Ad»ÁÖå
+BÝd¾Ad»AûzAÝd¾Ad»ÁûzAÝd¾Ad»ÁÖå
+B£RÅAd»ÁûzA£RÅAd»ÁÖå
+BÝd¾Ad»ÁûzAÝd¾Ad»ÁûzAÝd¾Ad»ÁÖå
+B£RÅAd»ÁûzA£RÅAd»ÁÖå
+B£RÅAd»AÖå
+BÝd¾Ad»ÁÖå
+B£RÅAd»ÁÖå
+BÝd¾Ad»AÖå
+BÝd¾Ad»AÖå
+B£RÅAd»AÖå
+BÝd¾Ad»ÁÖå
+B£RÅAd»ÁÖå
+B£RÅAd»AûzAÝd¾Ad»AÖå
+B£RÅAd»AÖå
+BÝd¾Ad»AûzAÝd¾Ad»AûzA£RÅAd»AûzAÝd¾Ad»AÖå
+B£RÅAd»AÖå
+BÝd¾Ad»ÁûzA£RÅAd»AûzA£RÅAd»ÁûzAÝd¾Ad»AûzAÝd¾Ad»AûzAÝd¾Ad»ÁûzA£RÅAd»AûzA£RÅAd»ÁûzA£RÅAd»AûzA£RÅAd»ÁÖå
+B£RÅAd»ÁûzA£RÅAd»AÖå
+B£RÅAd»AÖå
+B£RÅAd»AûzA£RÅAd»ÁÖå
+B£RÅAd»ÁûzA»¸Ý>d»AÖå
+B»¸Ý>d»ÁûzA»¸Ý>d»AûzA»¸Ý>d»ÁÖå
+B»¸Ý>d»ÁÖå
+B»¸Ý>d»AÖå
+B»¸Ý>d»ÁûzA»¸Ý>d»AûzA»¸Ý¾d»AûzA»¸Ý>d»ÁûzA»¸Ý¾d»ÁûzA»¸Ý>d»AûzA»¸Ý>d»AûzA»¸Ý¾d»AûzA»¸Ý>d»ÁûzA»¸Ý¾d»ÁûzA»¸Ý¾d»AûzA»¸Ý>d»AÖå
+B»¸Ý>d»AûzA»¸Ý¾d»AÖå
+B»¸Ý¾d»AÖå
+B»¸Ý¾d»AûzA»¸Ý>d»AÖå
+B»¸Ý>d»AûzA»¸Ý>d»AÖå
+B»¸Ý¾d»ÁÖå
+B»¸Ý>d»ÁÖå
+B»¸Ý¾d»AÖå
+B»¸Ý¾d»AÖå
+B»¸Ý>d»AÖå
+B»¸Ý¾d»ÁÖå
+B»¸Ý>d»ÁÖå
+B»¸Ý¾d»ÁÖå
+B»¸Ý>d»ÁûzA»¸Ý>d»ÁÖå
+B»¸Ý¾d»ÁûzA»¸Ý¾d»ÁûzA»¸Ý¾d»ÁÖå
+B»¸Ý>d»ÁûzA»¸Ý>d»ÁÖå
+B»¸Ý¾d»ÁÖå
+B»¸Ý¾d»AûzA»¸Ý¾d»ÁûzA»¸Ý¾d»AÖå
+B»¸Ý¾d»AÖå
+B»¸Ý¾d»ÁÖå
+B»¸Ý¾d»AûzA»¸Ý¾d»ÁûzAÝd¾Ád»AûzAÝd¾Ád»ÁÖå
+BÝd¾Ád»ÁûzAÝd¾Ád»AÖå
+BÝd¾Ád»AÖå
+BÝd¾Ád»AûzAÝd¾Ád»ÁÖå
+BÝd¾Ád»ÁûzA£RÅÁd»ÁÖå
+BÝd¾Ád»ÁûzAÝd¾Ád»ÁÖå
+B£RÅÁd»ÁûzA£RÅÁd»ÁûzA£RÅÁd»ÁÖå
+BÝd¾Ád»ÁûzAÝd¾Ád»ÁÖå
+B£RÅÁd»AûzAÝd¾Ád»ÁûzA£RÅÁd»ÁûzAÝd¾Ád»AûzAÝd¾Ád»AûzA£RÅÁd»AûzAÝd¾Ád»ÁûzA£RÅÁd»ÁûzA£RÅÁd»AûzAÝd¾Ád»AÖå
+BÝd¾Ád»AûzA£RÅÁd»AÖå
+B£RÅÁd»AÖå
+B£RÅÁd»AûzAÝd¾Ád»AÖå
+BÝd¾Ád»AûzAÝd¾Ád»AÖå
+B£RÅÁd»ÁÖå
+BÝd¾Ád»ÁÖå
+B£RÅÁd»AÖå
+B£RÅÁd»AÖå
+BÝd¾Ád»AÖå
+B£RÅÁd»ÁÖå
+BÝd¾Ád»ÁÖå
+B£RÅÁd»ÁÖå
+B£RÅÁd»AûzA£RÅÁd»ÁûzA£RÅÁd»AÖå
+B£RÅÁd»AÖå
+B£RÅÁd»ÁÖå
+B£RÅÁd»AûzA£RÅÁd»ÁûzA»Ad»Aÿ²@»Ad»Á ‰Ä?»Ad»A ‰Ä?»Ad»Áÿ²@»Ad»Áÿ²@»Ad»Aÿ²@»Ad»Á ‰Ä?»Ad»A ‰Ä?»Ád»A ‰Ä?»Ad»Á ‰Ä?»Ád»Á ‰Ä?»Ad»A ‰Ä?»Ad»A ‰Ä?»Ád»A ‰Ä?»Ad»Á ‰Ä?»Ád»Á ‰Ä?»Ád»A ‰Ä?»Ad»Aÿ²@»Ad»A ‰Ä?»Ád»Aÿ²@»Ád»Aÿ²@»Ád»A ‰Ä?»Ad»Aÿ²@»Ad»A ‰Ä?»Ad»Aÿ²@»Ád»Áÿ²@»Ad»Áÿ²@»Ád»Aÿ²@»Ád»Aÿ²@»Ad»Aÿ²@»Ád»Áÿ²@»Ad»Áÿ²@»Ád»Áÿ²@»Ad»Á ‰Ä?»Ad»Áÿ²@»Ád»Á ‰Ä?»Ád»Á ‰Ä?»Ád»Áÿ²@»Ad»Á ‰Ä?»Ad»Áÿ²@»Ád»Áÿ²@»Ád»A ‰Ä?»Ád»Á ‰Ä?»Ád»Aÿ²@»Ád»Aÿ²@»Ád»Áÿ²@»Ád»A ‰Ä?»Ád»Á ‰Ä?D©”Ád»AHáÀD©”Ád»Á_˜©ÀD©”Ád»A_˜©ÀD©”Ád»ÁHáÀD©”Ád»ÁHáÀD©”Ád»AHáÀD©”Ád»Á_˜©ÀD©”Ád»A_˜©À4 @Âd»A_˜©ÀD©”Ád»Á_˜©À4 @Âd»Á_˜©ÀD©”Ád»A_˜©ÀD©”Ád»A_˜©À4 @Âd»A_˜©ÀD©”Ád»Á_˜©À4 @Âd»Á_˜©À4 @Âd»A_˜©ÀD©”Ád»AHáÀD©”Ád»A_˜©À4 @Âd»AHáÀ4 @Âd»AHáÀ4 @Âd»A_˜©ÀD©”Ád»AHáÀD©”Ád»A_˜©ÀD©”Ád»AHáÀ4 @Âd»ÁHáÀD©”Ád»ÁHáÀ4 @Âd»AHáÀ4 @Âd»AHáÀD©”Ád»AHáÀ4 @Âd»ÁHáÀD©”Ád»ÁHáÀ4 @Âd»ÁHáÀD©”Ád»Á_˜©ÀD©”Ád»ÁHáÀ4 @Âd»Á_˜©À4 @Âd»Á_˜©À4 @Âd»ÁHáÀD©”Ád»Á_˜©ÀD©”Ád»ÁHáÀ4 @Âd»ÁHáÀ4 @Âd»A_˜©À4 @Âd»Á_˜©À4 @Âd»AHáÀ4 @Âd»AHáÀ4 @Âd»ÁHáÀ4 @Âd»A_˜©À4 @Âd»Á_˜©À   	   
+   	                                                 !   "   !       #   (   )   *   )   (   +   0   1   2   1   0   3                                                         $   %   &   '   &   %   ,   -   .   /   .   -   4   5   6   7   6   5   8   9   :   9   8   ;   @   A   B   A   @   C   H   I   J   I   H   K   P   Q   R   Q   P   S   X   Y   Z   Y   X   [   `   a   b   a   `   c   <   =   >   ?   >   =   D   E   F   G   F   E   L   M   N   O   N   M   T   U   V   W   V   U   \   ]   ^   _   ^   ]   d   e   f   g   f   e   h   i   j   i   h   k   p   q   r   q   p   s   x   y   z   y   x   {   €      ‚      €   ƒ   ˆ   ‰   Š   ‰   ˆ   ‹      ‘   ’   ‘      “   l   m   n   o   n   m   t   u   v   w   v   u   |   }   ~      ~   }   „   …   †   ‡   †   …   Œ      Ž      Ž      ”   •   –   —   –   •   ˜   ™   š   ™   ˜   ›       ¡   ¢   ¡       £   ¨   ©   ª   ©   ¨   «   °   ±   ²   ±   °   ³   ¸   ¹   º   ¹   ¸   »   À   Á   Â   Á   À   Ã   œ      ž   Ÿ   ž      ¤   ¥   ¦   §   ¦   ¥   ¬   ­   ®   ¯   ®   ­   ´   µ   ¶   ·   ¶   µ   ¼   ½   ¾   ¿   ¾   ½   Ä   Å   Æ   Ç   Æ   Å   È   É   Ê   É   È   Ë   Ð   Ñ   Ò   Ñ   Ð   Ó   Ø   Ù   Ú   Ù   Ø   Û   à   á   â   á   à   ã   è   é   ê   é   è   ë   ð   ñ   ò   ñ   ð   ó   Ì   Í   Î   Ï   Î   Í   Ô   Õ   Ö   ×   Ö   Õ   Ü   Ý   Þ   ß   Þ   Ý   ä   å   æ   ç   æ   å   ì   í   î   ï   î   í   ô   õ   ö   ÷   ö   õ   ø   ù   ú   ù   ø   û                   	  
+  	                                 !  "  !     #  ü   ý   þ   ÿ   þ   ý                                                   $  %  &  '  &  %  (  )  *  )  (  +  0  1  2  1  0  3  8  9  :  9  8  ;  @  A  B  A  @  C  H  I  J  I  H  K  P  Q  R  Q  P  S  ,  -  .  /  .  -  4  5  6  7  6  5  <  =  >  ?  >  =  D  E  F  G  F  E  L  M  N  O  N  M  T  U  V  W  V  U  X  Y  Z  Y  X  [  `  a  b  a  `  c  h  i  j  i  h  k  p  q  r  q  p  s  x  y  z  y  x  {  €    ‚    €  ƒ  \  ]  ^  _  ^  ]  d  e  f  g  f  e  l  m  n  o  n  m  t  u  v  w  v  u  |  }  ~    ~  }  „  …  †  ‡  †  …  ˆ  ‰  Š  ‰  ˆ  ‹    ‘  ’  ‘    “  ˜  ™  š  ™  ˜  ›     ¡  ¢  ¡     £  ¨  ©  ª  ©  ¨  «  °  ±  ²  ±  °  ³  Œ    Ž    Ž    ”  •  –  —  –  •  œ    ž  Ÿ  ž    ¤  ¥  ¦  §  ¦  ¥  ¬  ­  ®  ¯  ®  ­  ´  µ  ¶  ·  ¶  µ  ¸  ¹  º  ¹  ¸  »  À  Á  Â  Á  À  Ã  È  É  Ê  É  È  Ë  Ð  Ñ  Ò  Ñ  Ð  Ó  Ø  Ù  Ú  Ù  Ø  Û  à  á  â  á  à  ã  ¼  ½  ¾  ¿  ¾  ½  Ä  Å  Æ  Ç  Æ  Å  Ì  Í  Î  Ï  Î  Í  Ô  Õ  Ö  ×  Ö  Õ  Ü  Ý  Þ  ß  Þ  Ý  ä  å  æ  ç  æ  å  è  é  ê  é  è  ë  ð  ñ  ò  ñ  ð  ó  ø  ù  ú  ù  ø  û                  	  
+  	                  ì  í  î  ï  î  í  ô  õ  ö  ÷  ö  õ  ü  ý  þ  ÿ  þ  ý                                                     !  "  !     #  (  )  *  )  (  +  0  1  2  1  0  3  8  9  :  9  8  ;  @  A  B  A  @  C              $  %  &  '  &  %  ,  -  .  /  .  -  4  5  6  7  6  5  <  =  >  ?  >  =  D  E  F  G  F  E  H  I  J  I  H  K  P  Q  R  Q  P  S  X  Y  Z  Y  X  [  `  a  b  a  `  c  h  i  j  i  h  k  p  q  r  q  p  s  L  M  N  O  N  M  T  U  V  W  V  U  \  ]  ^  _  ^  ]  d  e  f  g  f  e  l  m  n  o  n  m  t  u  v  w  v  u  x  y  z  y  x  {  €    ‚    €  ƒ  ˆ  ‰  Š  ‰  ˆ  ‹    ‘  ’  ‘    “  ˜  ™  š  ™  ˜  ›     ¡  ¢  ¡     £  |  }  ~    ~  }  „  …  †  ‡  †  …  Œ    Ž    Ž    ”  •  –  —  –  •  œ    ž  Ÿ  ž    ¤  ¥  ¦  §  ¦  ¥  ¨  ©  ª  ©  ¨  «  °  ±  ²  ±  °  ³  ¸  ¹  º  ¹  ¸  »  À  Á  Â  Á  À  Ã  È  É  Ê  É  È  Ë  Ð  Ñ  Ò  Ñ  Ð  Ó  ¬  ­  ®  ¯  ®  ­  ´  µ  ¶  ·  ¶  µ  ¼  ½  ¾  ¿  ¾  ½  Ä  Å  Æ  Ç  Æ  Å  Ì  Í  Î  Ï  Î  Í  Ô  Õ  Ö  ×  Ö  Õ  Ø  Ù  Ú  Ù  Ø  Û  à  á  â  á  à  ã  è  é  ê  é  è  ë  ð  ñ  ò  ñ  ð  ó  ø  ù  ú  ù  ø  û                Ü  Ý  Þ  ß  Þ  Ý  ä  å  æ  ç  æ  å  ì  í  î  ï  î  í  ô  õ  ö  ÷  ö  õ  ü  ý  þ  ÿ  þ  ý                	  
+  	                                 !  "  !     #  (  )  *  )  (  +  0  1  2  1  0  3                                      $  %  &  '  &  %  ,  -  .  /  .  -  4  5  6  7  6  5  8  9  :  9  8  ;  @  A  B  A  @  C  H  I  J  I  H  K  P  Q  R  Q  P  S  X  Y  Z  Y  X  [  `  a  b  a  `  c  <  =  >  ?  >  =  D  E  F  G  F  E  L  M  N  O  N  M  T  U  V  W  V  U  \  ]  ^  _  ^  ]  d  e  f  g  f  e  h  i  j  i  h  k  p  q  r  q  p  s  x  y  z  y  x  {  €    ‚    €  ƒ  ˆ  ‰  Š  ‰  ˆ  ‹    ‘  ’  ‘    “  l  m  n  o  n  m  t  u  v  w  v  u  |  }  ~    ~  }  „  …  †  ‡  †  …  Œ    Ž    Ž    ”  •  –  —  –  •  ˜  ™  š  ™  ˜  ›     ¡  ¢  ¡     £  ¨  ©  ª  ©  ¨  «  °  ±  ²  ±  °  ³  ¸  ¹  º  ¹  ¸  »  À  Á  Â  Á  À  Ã  œ    ž  Ÿ  ž    ¤  ¥  ¦  §  ¦  ¥  ¬  ­  ®  ¯  ®  ­  ´  µ  ¶  ·  ¶  µ  ¼  ½  ¾  ¿  ¾  ½  Ä  Å  Æ  Ç  Æ  Å  È  É  Ê  É  È  Ë  Ð  Ñ  Ò  Ñ  Ð  Ó  Ø  Ù  Ú  Ù  Ø  Û  à  á  â  á  à  ã  è  é  ê  é  è  ë  ð  ñ  ò  ñ  ð  ó  Ì  Í  Î  Ï  Î  Í  Ô  Õ  Ö  ×  Ö  Õ  Ü  Ý  Þ  ß  Þ  Ý  ä  å  æ  ç  æ  å  ì  í  î  ï  î  í  ô  õ  ö  ÷  ö  õ  ø  ù  ú  ù  ø  û                  	  
+  	                                 !  "  !     #  ü  ý  þ  ÿ  þ  ý                                                  $  %  &  '  &  %  

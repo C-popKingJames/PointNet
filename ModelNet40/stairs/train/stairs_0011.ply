@@ -1,0 +1,370 @@
+ply
+format binary_little_endian 1.0
+element vertex 2352
+comment vertices
+property float x
+property float y
+property float z
+element face 1494
+comment faces
+property list uchar int vertex_indices
+end_header
+
+влBв#лB5╞eBпуNBв#лBЭ)LB
+влBв#лBЭ)LBпуNBв#лB5╞eBпуNBв#лBЭ)LB
+влBD╚CЭ)LB
+влBв#лBЭ)LB
+влBD╚CЭ)LB
+влBв#лB5╞eB
+влBв#лBЭ)LBc╝QBPMC5╞eBпуNBв#лB5╞eB
+влBв#лB5╞eBпуNBй#╦B5╞eBпуNBв#лB5╞eB
+влBв#лB5╞eB
+влBв#лBn4BпуNBв#лB5╞eB
+влBв#лB5╞eBпуNBв#лBЭ)LBпуNB!░╪B5╞eBпуNBв#лB5╞eBIM?D╚CЭ)LB
+влB┤VЦB5╞eB^IB!░╪B5╞eBc╝QBD╚C5╞eBпуNB!░╪B5╞eB
+влBй#╦B5╞eBпуNBв#лBn4B
+влBs╥гBn4B
+влBв#лB5╞eB
+влBв#лBn4BпуNBй#╦B5╞eBпуNB!░╪B5╞eBпуNB!░╪B5╞eBпуNBs╥гBn4BпуNBв#лB5╞eBпуNBй#╦BЭ)LBIM?D╚C5╞eB
+влBD╚CЭ)LBIM?D╚CЭ)LB
+влB▐бГB5╞eB#йB┤VЦB5╞eB
+влB┤VЦB5╞eB⌡уHBPMC5╞eB⌡уpBPMC5╞eBc╝QBD╚C5╞eB⌡уHBPMC5╞eBc╝QBPMC5╞eBc╝QBPMC5╞eBc╝QBD╚C в╨Bc╝QBD╚C5╞eBпуNB!░╪B5╞eBпуNBй#╦Bn4BпуNBй#╦B5╞eB^IBй#╦B5╞eB
+влBй#╦Bn4B
+влBй#╦B5╞eBпуNBй#╦Bn4B
+влBй#╦B5╞eBпуNBй#╦B5╞eB#йBв#лBn4BпуNBв#лBn4B#йBs╥гBn4B
+влBв#лBn4B
+влBs╥гBn4B
+влBв#лBn4B
+влBs╥гB	[бB
+влBs╥гBn4BпуNBй#╦BЭ)LB^IB!░╪B5╞eB^IB!░╪Bl≤╣BпуNB!░╪B5╞eB^IB!░╪B5╞eBпуNB!░╪Bn4BIM?й#╦BЭ)LB
+влBD╚C5╞eBIM?D╚CЭ)LBIM?PMC5╞eBIM?D╚C5╞eB
+влB┤VВB5╞eB#йB▐бГB5╞eB
+влB┤VЦB5╞eB
+влB▐бГB5╞eB
+влB▐бГB5╞eB
+влB┤VЦB в╨B
+влB┤VЦB5╞eB$в╦BD╚C5╞eB
+влB┤VЦB в╨B#йB┤VЦB5╞eB
+влB┤VЦB5╞eB#йB┤VЦB5╞eB^IBй#╦B5╞eBc╝QBPMC в╨B⌡уHBPMC5╞eBc╝QBPMC5╞eBc╝yBPMC5╞eB⌡уpBD╚C5╞eB⌡уHBD╚C5╞eBc╝QBPMC в╨Bc╝QBD╚C5╞eB⌡уHBD╚C в╨Bc╝QBD╚C в╨BпуNB!░╪Bn4BпуNBй#╦Bn4B^IBй#╦B5╞eBпуNBй#╦B5╞eBпуNBй#╦B5╞eB╬M@й#╦B5╞eB^IBй#╦B5╞eB
+влBй#╦Bn4B#йBв#лB ┬©B
+влBв#лBn4B#йBв#лBn4B#йBв#лBn4BjMTBв#лBn4BjMTBв#лBn4BпуNBs╥гBn4BпуNBв#лBn4BпуNBs╥гBn4BпуNBв#лBl≤╣BпуNBв#лBn4B#йBs╥гBn4B
+влBй#╦Bn4B
+влBs╥гBn4B
+влBs╥гB	[бB#йBs╥гBn4B
+влBs╥гBn4B
+влBв#лB ┬©BпуNBй#╦BЭ)LBIM?й#╦B5╞eB^IBй#╦B5╞eB^IB!░╪B в╨B^IB!░╪B5╞eBпуNB!░╪Bn4B^IB!░╪Bl≤╣BпуNBй#╦Bn4BпуNBs╥гBn4BпуNB!░╪Bn4BIM?й#╦BЭ)LBIM?й#╦Bц╓2BпуNBй#╦BЭ)LBIM?й#╦BЭ)LBIM?й#╦BЭ)LB╬M@!░╗BЭ)LBпуNBй#╦BЭ)LBIM?й#╦BЭ)LBIM?!░╪B5╞eBJ^M@D╚C5╞eB
+влBPMC5╞eB
+влBD╚C5╞eBIM?1HC5╞eBIM?PMC5╞eBJ^M@D╚C5╞eBIM?D╚C5╞eBIM?PMC5╞eBIM?D╚CЯC©BIM?D╚C5╞eB
+влB▐бШB5╞eB
+влB┤VВB5╞eB#йB▐бГB5╞eB
+влB▐бГB5╞eB
+влB▐бГB в╨B#йB▐бГB5╞eB
+влB▐бГB5╞eB
+влB▐бГB в╨B$в╦BPMC5╞eBkхBPMC5╞eB#йB┤VЦB в╨B#йB┤VВB5╞eB#йB▐бГB5╞eB#йB┤VЦB5╞eB#йB▐бГB в╨Bc╝)BD╚C5╞eB⌡уHBPMC в╨Bc╝yBD╚C5╞eBc╝yBD╚C5╞eB⌡уpBPMC5╞eBc╝yBPMC5╞eBc╝yBPMC в╨B⌡уpBPMC5╞eBc╝yBPMC5╞eB⌡уpBD╚C5╞eB⌡уpBD╚C5╞eB⌡уpBPMC в╨B⌡уpBPMC5╞eBc╝QBD╚C5╞eB⌡уpBD╚C5╞eB⌡уHBD╚C5╞eB⌡уHBD╚C5╞eB⌡уHBD╚C5╞eB⌡уHBD╚C5╞eB⌡уHBPMC в╨B⌡уHBPMC5╞eB⌡уpBPMC в╨Bc╝QBD╚C в╨Bc╝QBPMC в╨BIM?D╚CЯC©BпуNB!░╪Bn4BпуNBй#╦Bс\▄BпуNBй#╦Bn4B^IBй#╦BЧе╡B╬M@!░╪B5╞eB╬M@й#╦B5╞eB
+влBй#╦Bс\▄BпуNBй#╦Bn4B
+влBй#╦Bn4BпуNBй#╓Bn4BпуNBй#╦Bn4B
+влBй#╦Bn4B
+влBв#лB ┬©B#йBв#лBn4B#йBs╥гBn4B#йBв#лB ┬©B#йBв#лBn4BjMTBв#лBn4BjMTBв#лBl≤╣BjMTBs╥гBn4BпуNBs╥гBl≤╣BпуNBв#лBl≤╣B#йBs╥гB	[бB
+влB╢хтBЯC©B^IBй#╦BЧе╡BпуNB!░╪Bl≤╣B^IBL╥шB в╨BIM?й#╦B5╞eBпуNBй#╦Bц╓2BIM?й#╦Bц╓2BIM?!░╗BЭ)LBIM?й#╦BЭ)LBIM?!░╗BЭ)LB^IB!░╗BЭ)LBIM?в#лB5╞eBJ^M@D╚C5╞eBIM?D╚C5╞eBmV#AD╚C5╞eB
+влBHАC5╞eB
+влBD╚C5╞eBkхBPMC5╞eB
+влBPMC5╞eB
+влBD╚C5╞eB
+влBPMC в╨B
+влBPMC5╞eBIM?ЛC5╞eB╬M@1HC5╞eBIM?PMC5╞eBIM?1HC5╞eBJ^M@PMC5╞eBIM?PMC в╨B
+влBD╚C5╞eB#йB▐бШB5╞eB
+влB┤VВB5╞eB
+влB▐бШB5╞eB
+влB▐бШB5╞eB
+влB┤VВB в╨B
+влB┤VВB5╞eB#йB▐бГB в╨B
+влBD╚CЯC©Bнj╢BPMC5╞eB$в╦BPMC5╞eB$в╦BD╚C в╨B$в╦BD╚C5╞eB$в╦BD╚C5╞eBнj╢BPMC5╞eB$в╦BPMC5╞eB#йBD╚C5╞eBkхBD╚C5╞eB
+влB┤VЦB в╨B#йBТ}сB в╨B#йB┤VЦB в╨B#йB┤VЦB в╨Bc╝)BPMC5╞eB#йBPMC в╨Bнj▄BPMC5╞eBc╝yBPMC5╞eBc╝yBD╚C в╨Bc╝yBD╚C5╞eB⌡уpBPMC в╨Bc╝yBPMC в╨Bc╝yBD╚C5╞eB⌡уpBD╚C в╨Bc╝yBD╚C5╞eB⌡уpBD╚C5╞eB⌡уpBD╚C в╨Bc╝)BD╚C5╞eB⌡уHBD╚C в╨B⌡уpBD╚C в╨Bc╝)BD╚C в╨BпуNBй#╦B,╦BпуNBй#╦Bс\▄BпуNBй#╦Bс\▄BпуNBй#╦Bn4BпуNBs╥ЁBс\▄BпуNBй#╦Bс\▄B╬M@й#╦BЧе╡BIM?й#╦B5╞eB╬M@й#╦B5╞eBIM?й#╦B5╞eB╬M@!░╪B5╞eB╬M@й#╦B5╞eB╬M@в#лB5╞eB╬M@!░╪B5╞eB╬M@й#╦BЧе╡B╬M@й#╦B5╞eBjMTBs╥гBn4B
+влBs╥ЁBс\▄B
+влBй#╦Bс\▄BпуNB!░╗Bn4B
+влBй#╓Bn4B#йBв#лB ┬©B
+влBТ}сB в╨B
+влBв#лB ┬©B#йBs╥гB	[бBjMTBв#лB ┬©BjMTBв#лBn4BjMTBв#лBl≤╣BjMTBs╥гB	[бBjMTBs╥гBn4BjMTBs╥гB	[бBпуNBs╥гBn4BjMTBs╥гBn4BпуNBs╥гBl≤╣BпуNBs╥гBl≤╣BпуNBв#лB в╨BпуNBв#лBl≤╣BпуNBs╥гBl≤╣BпуNBL╥шBl≤╣BпуNBв#лBl≤╣BjMTBв#лB ┬©B
+влBs╥гB	[бB#йBй#╦BDKлB#йBs╥гB	[бB
+влBй#╦BDKлB
+влBТ}сB в╨B^IB!░╗Bпу╗B^IBL╥шBl≤╣BпуNB!░╪Bl≤╣B^IB!░╪Bl≤╣BпуNB!░╪B в╨BпуNB!░╪Bl≤╣BпуNB!░╪B в╨B^IBL╥шB в╨B^IB!░╪B в╨B^IBL╥шBl≤╣BIM?!░╪B5╞eBIM?й#╦B5╞eBIM?!░╪Bl≤╣BIM?!░╪B5╞eBпуNBй#╦Bц╓2BIM?й#╓Bц╓2BIM?й#╦Bц╓2BпуNBй#╦Bц╓2BпуNB!░╗BЭ)LBпуNBй#╦BЭ)LBIM?й#╓Bц╓2BIM?!░╗Bпу╗B╬M@!░╗BЭ)LBIM?!░╗BЭ)LB╬M@!░╗BЭ)LBIM?й#╓BЭ)LBIM?!░╗BЭ)LB^IBй#╓BЭ)LBпуNB!░╗BЭ)LBIM?в#лB5╞eBIM?!░╪B5╞eBIM?b░пB5╞eBJ^M@D╚C в╨BJ^M@D╚C5╞eBmV#APMC5╞eBmV#AD╚C5╞eB▄╧FAD╚C5╞eB
+влBD╚C5╞eB
+влBPMC5╞eB#йBHАC5╞eB
+влBHАC5╞eBkхBD╚C5╞eB
+влBPMC в╨BkхBPMC5╞eB
+влBPMC5╞eBIM?1HC5╞eB╬M@ЛC5╞eBIM?1HC5╞eBIM?ЛC5╞eBIM?1HC5╞eBIM?ЛC5╞eBIM?1HC в╨BJ^M@PMC5╞eB╬M@1HC в╨BIM?1HC5╞eB╬M@1HC5╞eB╬M@1HC5╞eBJ^M@PMC в╨BIM?PMC5╞eBJ^M@PMC5╞eBJ^M@PMC5╞eBJ^M@D╚C в╨BJ^M@D╚C5╞eBIM?ЛC в╨BIM?PMC в╨B
+влBHАC5╞eB
+влBD╚C5╞eB#йB▐бШB5╞eB
+влB▐бШB5╞eB#йB┤VВB5╞eB
+влB▐бШB в╨B#йB▐бШB5╞eB
+влB▐бШB5╞eB
+влB▐бШB в╨B
+влB┤VВB5╞eB#йB┤VВB в╨B
+влB┤VВB в╨B#йB┤VВB5╞eB
+влB┤VВB в╨B#йB▐бГB в╨B
+влB▐бГB в╨B$в╓BD╚C5╞eB$в╦BPMC в╨Bнj╢BPMC5╞eB$в╦BPMC5╞eB$в╦BPMC в╨B$в╦BD╚C5╞eBнj╢BD╚C в╨B$в╦BD╚C в╨Bнj╢BD╚C5╞eBkхBD╚C5╞eBkхBPMC в╨BkхBPMC5╞eB$в╦BD╚C5╞eBkхBD╚C5╞eB#йBТ}сB в╨B#йBF╤тB▒O©B#йBPMCЯC©B#йBD╚C5╞eB⌡у BPMC5╞eBc╝)BD╚C5╞eB⌡у BPMC5╞eBc╝)BPMC5╞eBc╝)BPMC5╞eBc╝)BD╚C в╨Bc╝)BD╚C5╞eBc╝)BPMC в╨B$в░BPMC5╞eBнj▄BD╚C5╞eBc╝yBD╚C в╨Bнj▄BPMC в╨Bc╝yBD╚C в╨Bc╝yBPMC в╨Bнj▄BD╚C5╞eB⌡у BD╚C5╞eBc╝)BD╚C в╨B⌡уHBPMC в╨B⌡уHBD╚C в╨B⌡у BD╚C в╨BпуNBй#╦BЧе╡BпуNBй#╦BЧе╡B#йBй#╦Bс\▄BпуNB!░╗Bn4BпуNBs╥ЁBс\▄BпуNBй#╦BЧе╡BпуNBй#╦Bс\▄BjMTBй#╦Bс\▄BпуNBs╥ЁBс\▄BпуNBй#╦Bс\▄BIM?й#╦BЧе╡B╬M@в#ЮB5╞eB╬M@!░╪Bl≤╣B
+влBй#╓Bс\▄B#йBs╥ЁBс\▄B
+влBй#╦Bс\▄B
+влBs╥ЁBс\▄B
+влBй#╦Bс\▄B
+влBs╥ЁB╡оB
+влBs╥ЁBс\▄BпуNB!░╗Bn4BпуNBй#╓Bс\▄BпуNBй#╓Bn4BпуNBй#╓BЭ)LBпуNB!░╗Bn4BпуNBй#╓Bn4B
+влBй#╓Bn4BпуNBй#╓Bс\▄B
+влBй#╓Bn4BпуNBй#╓Bn4BпуNBs╥гB в╨BпуNBs╥гB в╨BпуNBв#лB в╨BпуNBТ}сB в╨BпуNBв#лBl≤╣BпуNBв#лB в╨BпуNBL╥шBl≤╣B
+влBй#╦BDKлB#йBй#╦BDKлB^IBй#╓BT╕BпуNBй#╦BЧе╡B^IB!░╗Bпу╗B^IBй#╦BЧе╡BпуNBs╥гBl≤╣BпуNBs╥гB в╨B^IB^²▒@╦╞BjMTBL╥шBl≤╣B^IBL╥шBl≤╣B^IBL╥шB в╨BIM?!░╪Bl≤╣B╬M@!░╪B5╞eBIM?!░╪B5╞eBIM?й#╦BЧе╡BпуNBй#╓Bц╓2BпуNBй#╓Bц╓2BIM?й#╓BЭ)LB╬M@!░╗Bпу╗BIM?!░╗BЭ)LBIM?й#╓BЭ)LBIM?!░╗Bпу╗B╬M@й#╓BЭ)LB╬M@й#╓BЭ)LBпуNB!░╗BЭ)LB^IBй#╓BЭ)LB^IB!░╗BЭ)LB^IB!░╗BЭ)LB^IBй#╓BЭ)LB^IB!░╗Bпу╗BпуNB!░╗BЭ)LB^IB!░╗BЭ)LB╬M@в#лB5╞eBIM?b░пB5╞eBIM?в#лB5╞eBIM?b░пB5╞eBIM?в#лB5╞eBIM?b░пB в╨BIM?в#ЮB5╞eBmV#AD╚C в╨BmV#APMC5╞eB▄╧FAD╚C5╞eBmV#AD╚C5╞eBmV#AD╚C5╞eBmV#APMC в╨BmV#APMC5╞eB▄╧FAD╚C5╞eBmV#AD╚C5╞eB6╚║AD╚C5╞eB#йBHАC5╞eB
+влBD╚C5╞eB
+влBHАC5╞eB
+влBHАC5╞eB
+влBD╚C в╨B
+влBD╚C5╞eB
+влBHАC в╨B#йBHАC5╞eB
+влBHАC5╞eBkхBD╚C в╨B
+влBD╚C5╞eBkхBD╚C5╞eBkхBPMC в╨B
+влBHАC в╨B
+влBD╚CЯC©BIM?ЛC5╞eBIM?1HC5╞eB╬M@ЛC5╞eBIM?ЛC5╞eBIM?ЛC в╨B╬M@ЛC5╞eBIM?ЛC5╞eBIM?ЛC в╨BIM?1HC в╨B╬M@1HC в╨B╬M@ЛC в╨B╬M@1HC5╞eB╬M@ЛC5╞eBJ^M@PMC в╨B╬M@ЛC5╞eBIM?ЛC в╨B╬M@1HC в╨BIM?PMC в╨B╬M@PMC в╨B#йBHАC5╞eB
+влBD╚C5╞eB
+влBHАC5╞eB
+влBHАC5╞eB
+влBD╚C в╨B
+влBD╚C5╞eB#йB▐бШB5╞eB#йB┤VВB5╞eB#йB▐бШB в╨B#йB▐бШB в╨B#йB┤VВB в╨B#йB┤VВB в╨B
+влBD╚CЯC©B#йBPMCЯC©B
+влB╢хтBЯC©B$в╓BPMC5╞eBнj╢BD╚C5╞eBнj╢BPMC в╨BkхBPMC в╨B$в╦BD╚C в╨B$в╦BPMC в╨Bнj╢BD╚C5╞eBнj╢BD╚C5╞eBнj╢BD╚C5╞eBнj╢BPMC в╨Bнj╢BPMC5╞eB#йBD╚C5╞eB#йBHАC5╞eB#йBD╚C5╞eB#йBHАC в╨BkхBD╚C в╨B#йBHАC5╞eBc╝BD╚C5╞eB⌡у BPMC5╞eBc╝)BPMC5╞eB⌡у BD╚C5╞eBc╝)BPMC в╨Bc╝)BD╚C5╞eB⌡у BPMC в╨Bc╝)BPMC в╨B$в░BD╚C5╞eB$в░BD╚C5╞eBнj▄BPMC5╞eB$в░BPMC5╞eB$в░BPMC в╨Bнj▄BPMC5╞eB$в░BPMC5╞eBнj▄BD╚C5╞eBнj▄BD╚C5╞eBнj▄BPMC в╨Bнj▄BPMC5╞eBнj▄BPMC в╨Bнj▄BD╚C в╨B$в░BD╚C5╞eBc╝BD╚C5╞eB⌡у BD╚C5╞eBc╝BD╚C в╨Bнj▄BD╚C в╨BпуNBs╥ЁB╟2╣BпуNBй#╦B,╦BпуNBs╥ЁB┌С╞BпуNBй#╦B,╦BпуNBй#╦BЧе╡BjMTBй#╦BDKлBпуNBй#╦BЧе╡BпуNBй#╦B,╦BjMTBй#╦Bс\▄BпуNBй#╦Bс\▄B#йBй#╦Bс\▄B#йBй#╦BDKлB
+влBй#╦Bс\▄B#йBй#╦Bс\▄BjMTBй#╦Bс\▄BпуNB!░╗Bс\▄BпуNBs╥ЁB┌С╞BjMTBs╥ЁBс\▄B╬M@й#╦BЧе╡BIM?4Я╙B^Z╙BIM?й#╦BЧе╡B╬M@в#ТB5╞eB╬M@b░пB5╞eB╬M@в#лB в╨BIM?в#лB5╞eB╬M@в#лB5╞eB╬M@М~цBЯC©B╬M@!░╪Bl≤╣B#йBs╥ЁBс\▄B
+влBй#╓Bс\▄B
+влBs╥ЁBс\▄B
+влBs╥ЁB╡оB#йBs╥ЁBс\▄B
+влBs╥ЁBс\▄BпуNB!░╗Bс\▄B^IBй#╓BT╕BпуNBй#╓Bn4BпуNBй#╓Bс\▄BпуNB!░╗BЭ)LB^IBй#╓BЭ)LBпуNBй#╓BЭ)LB
+влBй#╓Bс\▄BjMTBL╥шB в╨BпуNBs╥гB	[бBпуNBs╥гB в╨BпуNBL╥шB в╨BпуNBв#лB в╨BпуNBв#лB в╨BпуNBs╥гB в╨BпуNBв#лB ┬©BпуNBв#лB ┬©BпуNBТ}сB в╨BпуNBL╥шBl≤╣BпуNBL╥шBl≤╣BпуNBв#лB ┬©BпуNBТ}сB в╨B
+влBй#╦BDKлB#йBs╥ЁB╡оB
+влBй#╓BсыB^IB!░■B3°BпуNB!░╗Bпу╗BпуNBй#░BФ·B^IB╝╥@x:	B^IB^²▒@╦╞BjMTBL╥шB в╨BIM?М~цBЯC©BIM?й#╓BЭ)LBпуNBй#╓Bц╓2BIM?й#╓Bц╓2BIM?й#╓BpBпуNBй#╓Bц╓2BIM?й#╓Bц╓2BIM?!░■Bц╓2BпуNBй#╓Bц╓2BIM?й#╓Bц╓2BпуNBй#╓BЭ)LBIM?!░╗Bпу╗B╬M@!░╗Bпу╗B╬M@!░╗BЭ)LB╬M@!░╗Bпу╗B╬M@й#╓BЭ)LBIM?й#╓BT╕B╬M@й#╓BT╕BIM?й#╓BЭ)LB╬M@й#╓BЭ)LBпуNBй#╓BЭ)LB╬M@й#╓BЭ)LB^IBй#╓BЭ)LBпуNBй#╓BЭ)LBпуNB!░╗Bn4B╬M@b░пB5╞eBIM?в#лB в╨BIM?b░пB5╞eB╬M@b░пB в╨BIM?b░пB в╨BIM?в#ЮB5╞eBIM?b░пB5╞eBIM?b░ДB5╞eB▄╧FAD╚C в╨BJ^M@D╚C в╨BmV#APMC в╨BmV#AD╚C в╨B▄╧FAPMC5╞eB▄╧FAPMC5╞eBmV#AD╚C в╨BmV#APMC5╞eB▄╧FAPMC в╨BmV#APMC в╨B▄╧FAD╚C5╞eB6╚║APMC5╞eB6╚║AD╚C5╞eBф\ЁAD╚C5╞eB
+влBD╚C5╞eB
+влBHАC5╞eB
+влBD╚C5╞eB#йBD╚C в╨B
+влBD╚C в╨B#йBHАC в╨B#йBPMC в╨B
+влBHАC в╨B
+влBPMC в╨BIM?b░ЬB5╞eB╬M@ЛC5╞eBIM?1HC5╞eBIM?ЛC5╞eBIM?ЛC5╞eBIM?1HC в╨BIM?1HC5╞eB╬M@1HC5╞eB╬M@ЛC в╨BIM?1HC в╨B╬M@PMCЯC©BJ^M@PMC в╨B╬M@PMC в╨B#йBD╚C5╞eB
+влBHАC в╨B#йBHАC5╞eB
+влBHАC5╞eB
+влBHАC в╨B
+влBD╚C5╞eB#йBD╚C в╨B
+влBD╚C в╨B#йBD╚C5╞eB
+влB▐бШB в╨B#йBD╚C в╨B#йB▐бШB в╨B╬M@PMCЯC©B#йB╢хтBЯC©Bнj═BPMC5╞eB$в╓BD╚C5╞eBнj═BPMC5╞eB$в╓BPMC5╞eB$в╓BPMC5╞eB$в╓BD╚C в╨B$в╓BD╚C5╞eB$в╓BD╚C5╞eBkхBD╚C в╨Bнj╢BD╚C в╨B$в╓BD╚C в╨B#йBD╚C5╞eB#йBD╚C в╨B#йBD╚C5╞eB#йBHАC в╨B#йBHАC5╞eBc╝BPMC5╞eB⌡у BD╚C5╞eB⌡у BD╚C5╞eB⌡у BPMC в╨B⌡у BPMC5╞eBc╝BPMC в╨B$в░BPMC5╞eB$в░BD╚C в╨B$в░BD╚C5╞eB$в░BPMC в╨B$в░BD╚C5╞eBнj▄BD╚C5╞eBнj▄BD╚C в╨Bнj═BD╚C5╞eB6╚ЯAD╚C5╞eB⌡у BD╚C в╨B6╚ЯAD╚C в╨Bc╝BD╚C в╨B⌡у BPMC в╨B⌡у BD╚C в╨B$в░BD╚C в╨BпуNBй#╓B┌B╚BпуNBs╥ЁB╟2╣BпуNBй#╦B,╦BпуNBs╥ЁB╟2╣BпуNBй#╦BDKлBпуNBs╥ЁB┌С╞BпуNBй#╦BDKлB#йBй#╦Bс\▄B#йBs╥ЁBс\▄B#йBй#╦Bс\▄BjMTBй#╦Bс\▄BпуNB!░╗Bс\▄BпуNBй#╓Bс\▄BпуNBs╥ЁBс\▄BпуNB!░╗Bс\▄BпуNBs╥ЁBс\▄BjMTBs╥ЁB╡оBпуNBs╥ЁB┌С╞BjMTBs╥ЁBс\▄BjMTBй#╦Bс\▄BjMTBs╥ЁB╡оBjMTBs╥ЁBс\▄BjMTBs╥ЁBс\▄BIM?4Я╙B^Z╙B╬M@b░ДB5╞eB╬M@b░пB5╞eB╬M@в#лB в╨B╬M@в#лB5╞eBIM?в#лB в╨B╬M@4Я╙B^Z╙B╬M@_идB в╨BIM?_идB в╨B╬M@!░╪Bl≤╣BIM?!░╪Bl≤╣B#йBs╥ЁB╡оBпуNB!░╗Bс\▄BпуNBй#╓B}≥BпуNBй#╓Bс\▄BпуNBй#╓B}≥BпуNBй#░Bс\▄BпуNBй#╓Bс\▄B
+влBй#╓Bс\▄B
+влBй#╓B}≥BпуNBй#╓Bс\▄B
+влBй#╓Bс\▄BjMTBй#╦BDKлBjMTBL╥шBl≤╣BjMTBs╥гB	[бBпуNBй#╦BDKлBпуNBs╥гB	[бBпуNBs╥гB	[бBjMTBL╥шBl≤╣BjMTBв#лB ┬©BпуNBL╥шB в╨BпуNBТ}сB в╨B#йBй#╓BсыB
+влBs╥÷BBЮшB#йBй#╓BсыB
+влBs╥ЁB╡оB
+влBй#╓BсыB^IBй#░B╦@≥B^IBй#╓BT╕BпуNB!░■B3°B^IB!░■B3°BпуNB!░╗Bпу╗BпуNBL╥шB в╨BпуNB!░┼BЯ BпуNBs╥÷Bp╗B^IBOAAЪaB^IB╝╥@x:	BпуNB^²▒@╦╞B^IB^²▒@╦╞BIM?_идB в╨BпуNBй#╓BpBIM?й#╓BpBIM?!░■Bц╓2BIM?й#╓Bц╓2B╬M@!░■Bц╓2B╬M@4Я╙B^Z╙B╬M@й#╓BT╕BIM?й#╓BT╕B╬M@b░пB5╞eB╬M@b░пB в╨BIM?в#ЮB в╨BIM?b░пB в╨B╬M@в#ЮB5╞eBIM?b░ДB5╞eBIM?в#ЮB5╞eBIM?b░ДB5╞eBIM?в#ЮB5╞eBIM?b░ДB в╨BIM?в#ТB5╞eB6╚║AD╚C в╨B▄╧FAPMC5╞eB▄╧FAPMC5╞eB▄╧FAD╚C в╨B▄╧FAD╚C5╞eB6╚║APMC5╞eBф\ЁAD╚C5╞eB6╚║AD╚C5╞eB6╚║AD╚C5╞eB6╚║APMC в╨B6╚║APMC5╞eBф\ЁAD╚C5╞eB6╚║AD╚C5╞eB#йBHАC в╨B
+влBD╚C в╨B#йBD╚C в╨B#йBHАC в╨BIM?D╚CЯC©BIM?b░ЬB5╞eBIM?ЛC5╞eB╬M@1HC5╞eBIM?ЛC в╨B╬M@ЛC5╞eBIM?ЛC5╞eBIM?ЛC в╨BIM?1HC5╞eB╬M@1HC в╨BIM?1HC в╨B╬M@1HC5╞eBIM?1HC в╨B╬M@ЛC в╨BIM?ЛC в╨B╬M@1HC в╨B╬M@ЛC в╨B╬M@b░ЬB5╞eB╬M@1HC5╞eB╬M@ЛC в╨B╬M@ЛC5╞eB╬M@ЛC в╨B╬M@PMCЯC©B#йBHАC в╨B
+влBD╚C в╨B#йBD╚C в╨B#йBPMCЯC©B$в╓BPMC в╨Bнj═BPMC5╞eB$в╓BPMC5╞eBнj═BD╚C5╞eB$в╓BPMC в╨B$в╓BD╚C5╞eBнj═BD╚C в╨B$в╓BD╚C в╨Bнj╢BPMC в╨Bнj╢BD╚C в╨B6╚ЯAPMC5╞eBc╝BPMC в╨Bc╝BD╚C5╞eBc╝BPMC5╞eBc╝BD╚C5╞eB6╚ЯAPMC5╞eBc╝BPMC5╞eB6╚ЯAPMC в╨Bc╝BPMC в╨Bнj═BD╚C5╞eBнj═BPMC в╨B$в░BD╚C в╨B$в░BPMC в╨Bнj═BPMC в╨Bc╝BD╚C5╞eB6╚ЯAD╚C5╞eB6╚ЯAD╚C5╞eBф\ЁAD╚C в╨BпуNB!░╗Bпу╗BпуNBs╥ЁB╟2╣BпуNBй#╓B┌B╚BпуNBs╥ЁB┌С╞BпуNBs╥ЁB╟2╣BпуNBs╥ЁB╡оBjMTBй#╦BDKлBIM?b░ДB5╞eB╬M@b░ДB5╞eB╬M@b░ДB5╞eB╬M@в#ЮB в╨B╬M@в#ЮB5╞eBIM?в#ЮB в╨B╬M@в#ЮB5╞eBIM?в#ЮB5╞eB╬M@b░пB в╨B╬M@_идB в╨BIM?в#лB в╨B╬M@в#лB в╨B#йBs╥ЁB╡оBпуNBй#╓B}≥BпуNBй#╓Bс\▄BпуNBs╥÷B}≥BпуNBй#╓B}≥BпуNBй#╓BT╕BпуNB!░■Bс\▄B
+влBй#░Bс\▄B
+влBs╥÷B}≥B
+влBй#╓B}≥B#йBs╥÷BBЮшB
+влBй#░BbпЕB
+влBй#╓B}≥B
+влBй#╓B}≥B#йBй#╓BсыB
+влBй#╓BсыB^IB4Я┌B%у░B^IB!░■Bц╓2BпуNBs╥÷BЕ0ёBпуNB!░■B}≥B^IB!░■B3°BпуNB!░■B3°BпуNBL╥шB в╨BjMTB≥╩Aу8CjMTBL╥шB в╨BпуNB^²▒@╦╞BпуNB1╧▀B}≥BпуNBй#░BФ·BпуNB!░┼BЯ BпуNB!░┼BЯ BпуNBs╥▀BБ╔BпуNBй#░BФ·BпуNBй#░B╦@≥BпуNBs╥÷Bp╗BпуNBй#░BФ·B^IB│dAэBпуNBOAAЪaB^IB╝╥@x:	B^IBOAAЪaBпуNB╝╥@x:	BпуNBй#╓BpBIM?й#░BpBIM?й#╓BpBпуNBй#╓BpBпуNB!░■Bц╓2BпуNBй#╓Bц╓2BIM?й#░BpB╬M@!░■Bц╓2BIM?й#░Bц╓2BIM?!░■Bц╓2BIM?!░■B3°B╬M@!░■Bц╓2BIM?!░■Bц╓2B^IB!░■Bц╓2BIM?!░■B3°B╬M@!░■B3°BIM?й#╓BT╕B╬M@й#╓BT╕BIM?в#ЮB в╨B╬M@в#ЮB в╨BIM?b░ДB5╞eB╬M@b░ДB в╨BIM?b░ДB в╨BIM?в#ТB5╞eB▄╧FAD╚C в╨B6╚║APMC в╨B6╚║AD╚C в╨B▄╧FAPMC в╨B6╚║APMC в╨Bф\ЁAPMC5╞eBф\ЁAPMC5╞eB6╚║AD╚C в╨B6╚║APMC5╞eBф\ЁAPMC в╨Bф\ЁAD╚C5╞eB6╚ЯAD╚C5╞eB
+влBHАC в╨B#йBPMC в╨B╬M@М~цBЯC©B╬M@в#ТB5╞eBIM?b░ЬB5╞eBIM?в#ТB5╞eBIM?b░ЬB5╞eBIM?в#ТB5╞eBIM?b░ЬB в╨B╬M@ЛC в╨B╬M@1HC в╨B╬M@PMC в╨B╬M@b░ЬB5╞eB╬M@b░ЬB5╞eB╬M@в#ТB в╨B╬M@в#ТB5╞eBнj═BD╚C5╞eBнj═BD╚C5╞eBнj═BPMC в╨Bнj═BPMC5╞eB$в╓BPMC в╨B6╚ЯAPMC5╞eBc╝BPMC5╞eBc╝BD╚C в╨Bнj═BD╚C в╨B6╚ЯAPMC в╨B6╚ЯAD╚C5╞eB6╚ЯAD╚C в╨B6╚ЯAPMC5╞eBф\ЁAD╚C в╨B6╚ЯAPMC в╨B6╚ЯAD╚C в╨BпуNBй#╓B┌B╚BпуNBs╥÷Bp╗BпуNBй#╓BсыBпуNBs╥÷Bp╗BпуNB4Я═BЫёBпуNBй#╓B┌B╚BпуNBs╥ЁB╡оB╬M@b░ДB5╞eB╬M@b░ДB в╨B╬M@в#ЮB в╨BпуNBй#╓BT╕B#йBй#╓B}≥BпуNB!░■Bс\▄BjMTBй#╓B}≥BпуNBs╥÷B}≥BпуNBй#╓B}≥BпуNBs╥÷B}≥BпуNB4Я═BЫёBпуNBй#╓B}≥BпуNBй#╓BT╕BjMTBй#╓B}≥BпуNBй#╓B}≥BпуNBй#╓BT╕BпуNBй#╓BT╕BпуNB!░■Bс\▄BпуNBй#░B}≥BпуNBй#░Bс\▄BпуNBй#░Bс\▄BпуNB!░■Bц╓2BпуNB!░■Bс\▄B
+влBй#░B}≥B
+влBй#░Bс\▄BпуNBй#░B}≥B
+влBй#░Bс\▄BпуNBй#░Bс\▄B#йBs╥÷B}≥B
+влBй#╓B}≥B
+влBs╥÷B}≥B
+влBs╥÷B}≥BjMTBй#╓BсыB#йBй#░BbпЕB#йBs╥÷B}≥B
+влBs╥▀Bя╒ХB#йBй#░BbпЕB
+влBs╥÷BBЮшB
+влBй#░BbпЕB#йBй#╓B}≥B^IB!░─B┼P▐BпуNBй#░B╦@≥B^IB4Я┌B%у░B^IBй#░B╦@≥BпуNB!░■Bц╓2B^IB!░■Bц╓2B^IBй#░Bц╓2BпуNB4Я√Bб≈²BпуNB!░■Bс\▄BпуNB!░■B3°BпуNB!░■B}≥BпуNB≥╩Aу8CjMTB≥╩Aу8CjMTBOAA!0CпуNB`╤┤B}≥BпуNB╚О▐B}≥BпуNB1╧▀B}≥BпуNB!░┼BЯ BпуNB`╤┤B}≥BпуNB`╤┤B}≥BпуNBй#░BБ╔BпуNBй#░B╦@≥BпуNBй#░B╦@≥B
+влBй#░BБ╔BпуNBй#░BФ·B^IB(▐╟A8Г2B^IBOAAЯ)л@пуNB╝╥@x:	B^IBOAAЯ)л@пуNBOAAЪaB^IBOAAЪaBпуNB╝╥@x:	BпуNB`╤┤B}≥BпуNB^²▒@╦╞BIM?М~цBЯC©BпуNBй#░BpBпуNBй#░BpBпуNB!░■Bц╓2BIM?й#░Bц╓2B╬M@й#░Bц╓2BIM?!░■Bц╓2BIM?й#░Bц╓2BIM?й#░B╦@≥B╬M@!░■B3°B^IBй#░Bц╓2B╬M@!░■B3°BIM?!░■B3°B╬M@в#ТB в╨BIM?b░ДB в╨B╬M@b░ДB в╨BIM?в#ТB в╨B╬M@в#ТB5╞eBIM?в#ТB5╞eB▄╧FAPMC в╨Bф\ЁAPMC5╞eBф\ЁAPMC5╞eBф\ЁAD╚C в╨Bф\ЁAD╚C5╞eBIM?в#ТB в╨BIM?b░ЬB5╞eB╬M@b░ЬB в╨BIM?b░ЬB в╨B╬M@b░ЬB5╞eBIM?ЛC в╨B╬M@b░ЬB в╨B╬M@ЛC в╨B╬M@b░ЬB в╨B╬M@в#ТB в╨Bнj═BD╚C в╨Bф\ЁAPMC в╨BпуNBs╥÷BBЮшBjMTBй#╓BсыBпуNBй#╓B┌B╚BпуNBй#╓BсыBпуNBs╥÷BпД╔BпуNBй#╓BT╕BjMTBs╥ЁB╡оBпуNBй#╓BсыBпуNBs╥ЁB╡оB#йBй#╓B}≥BjMTBй#╓B}≥BпуNB!░■B}≥BjMTBs╥÷B}≥BпуNBs╥÷BЕ0ёBпуNB4Я═BЫёBпуNB!░■B}≥B^IBй#░B╦@≥BпуNBй#░Bс\▄BпуNBй#░B}≥BпуNBй#░Bц╓2B
+влBй#░B}≥B#йBs╥÷B}≥B
+влBй#░B}≥B
+влBs╥÷B}≥B
+влBs╥÷BBЮшB#йBs╥÷B}≥B
+влBs╥÷B}≥BjMTBs╥÷BBЮшBjMTBй#╓BсыB#йBs╥▀Bя╒ХB#йBs╥÷BBЮшB#йBй#╓B}≥B#йBs╥÷BBЮшB
+влB■GxBР▓РB
+влBй#░BБ╔B
+влBй#░BБ╔B#йBй#░BbпЕB
+влBй#░BbпЕB^IB■GxB~▄B^IB!░─B┼P▐BпуNBй#░B╦@≥BпуNB!░■Bц╓2B^IBй#░Bц╓2B^IB!░■Bц╓2B^IBй#░Bц╓2BпуNB4Я√Bб≈²BпуNBs╥÷BЕ0ёBпуNBй#░B}≥BпуNB≥╩AX≥CпуNB≥╩Aу8CпуNB≥╩Aу8CjMTB≥╩AX≥CjMTB≥╩Aу8CjMTBOAA╙qРBjMTBлщ·A8CпуNBй#░B}≥BпуNB1╧▀B}≥BпуNB╚О▐B}≥BпуNB╚О▐B}≥BпуNB1╧▀B}≥BпуNB`╤┤B}≥BпуNB■GxB}≥BjMTBй#░BБ╔BпуNBs╥▀BБ╔BпуNBй#░BБ╔BпуNBй#░BБ╔BпуNBs╥▀BБ╔BпуNBй#░BbпЕBпуNBй#░BБ╔BпуNBй#░B╦@≥BпуNB╚О▐B}≥BпуNBй#░B}≥BпуNB╚О▐B}≥BпуNBй#░B}≥B^IB┐@бA▄8BпуNB(▐╟A8Г2B^IB│dAэB^IB(▐╟A8Г2B^IB│dAЯ)л@пуNBOAAЪaBпуNBOAAЯ)л@╬M@^²▒@╦╞BIM?й#░Bц╓2BпуNBй#░BpBIM?й#░BpBIM?й#░BpB╬M@!░─BpBпуNBй#░BpBIM?й#░Bn4ЪAпуNBй#░BpBIM?й#░BpBпуNBй#░Bц╓2B╬M@й#░Bц╓2B╬M@!░■Bц╓2B╬M@й#░B╦@≥B╬M@й#░Bц╓2BпуNBй#░Bц╓2B╬M@й#░Bц╓2B╬M@й#░B╦@≥BIM?й#░Bц╓2B╬M@й#░Bц╓2BIM?й#░B╦@≥BIM?!░─B┼P▐BIM?в#ТB в╨Bф\ЁAPMC в╨BIM?b░ЬB в╨BпуNBs╥÷Bp╗BjMTBs╥÷BBЮшBпуNBs╥÷BBЮшBпуNBs╥÷BпД╔BпуNBs╥÷BпД╔BпуNB4Я═BЫёBпуNBs╥÷BпД╔BпуNBs╥÷BЕ0ёB#йBй#╓B}≥BjMTBй#╓B}≥BпуNBй#░B}≥BпуNBs╥÷B}≥BпуNB!░■B}≥BjMTBs╥÷B}≥BjMTBй#╓B}≥BjMTBs╥÷B}≥BпуNBs╥÷B}≥BjMTBs╥÷B}≥BпуNBs╥÷BЕ0ёBпуNBй#░Bц╓2BпуNBй#░Bц╓2BпуNB■GxB}≥B
+влBй#░B}≥B
+влBй#░B}≥BjMTBй#░BbпЕB#йB■GxBР▓РB#йBs╥▀BБ╔B
+влBФnoB`eУB#йB■GxBР▓РB
+влBs╥▀Bя╒ХB
+влB■GxBР▓РB
+влBs╥▀BБ╔B#йBй#░BБ╔B^IBB YBМ█┌B^IB■GxBpBпуNBOAA!0CпуNB≥╩AX≥CjMTB≥╩AX≥CjMTBOAA╙qРBпуNBOAA!0CjMTBOAA!0CпуNBOAA!0CjMTBлщ·A8CjMTBOAA!0CjMTB(▐╟AынCпуNB!░─B┼P▐BпуNB■GxBБ╔BjMTBs╥▀BБ╔BпуNBй#░BbпЕBjMTBй#░BБ╔BпуNBй#░BБ╔B#йBй#░BБ╔BjMTBй#░BБ╔BпуNBs╥▀Bя╒ХBпуNB!░─B┼P▐B^IB■G BqlLB^IB(▐╟Aг)LAпуNB│dAэB^IB(▐╟Aг)LAпуNB(▐╟A8Г2B^IB(▐╟A8Г2BпуNB│dAЯ)л@^IBOAAЯ)л@^IB│dAЯ)л@^IB│dAЯ)л@╬M@│dAЯ)л@^IBOAAЯ)л@^IB│dAэBпуNB│dAЯ)л@^IB│dAЯ)л@пуNB│dAэBпуNBOAAЯ)л@пуNBOAAЯ)л@╬M@OAAЯ)л@^IBOAAЯ)л@пуNB│dAЯ)л@пуNBOAAЯ)л@IM?^²▒@╦╞B╬M@╝╥@x:	B╬M@^²▒@╦╞BIM?!░─BpB^IB!░─BpBпуNBй#░Bn4ЪAIM?й#░Bn4ЪAIM?!░─BpBIM?й#░BpB^IBй#░Bц╓2B╬M@й#░B╦@≥BIM?!░─B┼P▐BIM?й#░B╦@≥B╬M@!░─B┼P▐BIM?■GxB~▄BjMTBs╥÷BBЮшBпуNBй#░BbпЕBпуNBs╥÷BBЮшB
+влB■GxB}≥B
+влBs╥▀BБ╔B
+влBй#░BБ╔BjMTBs╥▀Bя╒ХBjMTBй#░BbпЕB#йBФnoB`eУB#йBs╥▀Bя╒ХB#йBй#░BБ╔B#йBs╥▀BБ╔B
+влBs╥▀Bя╒ХB#йBs╥▀Bя╒ХB
+влB■GPB│UЪB
+влB■GxB╤╓╡B
+влB■GxB╤╓╡B#йB■GxBР▓РB
+влB■GxBР▓РB
+влBs╥▀BБ╔B#йBs╥▀BБ╔B
+влBй#░BБ╔B
+влBs╥▀BБ╔B#йBй#░BБ╔B^IB■GPBЩvBпуNB■GxB~▄B^IBB YBМ█┌B^IB■GxB~▄B^IB!░─BpB^IB■GxBpBпуNB■GxB~▄B^IB■GxB~▄BпуNBлщ·A8CпуNB≥╩A╙qРBпуNB≥╩A╙qРBjMTB≥╩A╙qРBпуNBOAA╙qРBпуNBлщ·A8CjMTB(▐╟A╞ЕBjMTBлщНAижCпуNB■GxB~▄BпуNB■GxBБ╔B
+влB■GxB}≥BпуNB■GxB}≥B
+влB■GxBБ╔BпуNBs╥▀BБ╔BпуNB■GxBБ╔BjMTBs╥▀BБ╔BjMTBй#░BБ╔BjMTBй#░BБ╔BjMTBs╥▀BБ╔BjMTBs╥▀Bя╒ХBпуNBs╥▀BБ╔BjMTBs╥▀BБ╔BjMTBй#░BbпЕB#йBй#░BБ╔B#йBs╥▀BБ╔BпуNBs╥▀Bя╒ХBпуNB!░─BpB^IB!░─B┼P▐BпуNB!░─B┼P▐B^IBB 	BhRBпуNB■G BqlLB^IB┐@бA▄8B^IB■G BqlLB^IB┐@бAг)LAпуNB(▐╟A8Г2BпуNB│dAэBпуNB(▐╟Aг)LAпуNB(▐╟AЯ)л@пуNB│dAЯ)л@╬M@OAAЯ)л@пуNB│dAЯ)л@пуNBOAA    пуNBOAAЯ)л@IM?OAAЯ)л@IM?╝╥@x:	BIM?^²▒@╦╞BIM?╝╥@x:	B╬M@^²▒@╦╞BIM?^²▒@╦╞B╬M@OAAЪaB╬M@╝╥@x:	B╬M@!░─BpBIM?■GxBpBIM?!░─BpBIM?!░─B┼P▐B╬M@!░─BpBIM?!░─BpB^IB■GxBpBпуNB!░─BpBпуNBй#░Bn4ЪAIM?■GxBn4ЪAIM?й#░Bn4ЪAпуNBй#░Bn4ЪAпуNB!░─BpBпуNBй#░BpBIM?■GxBn4ЪA╬M@!░─B┼P▐B╬M@■GxB~▄BIM?B YBМ█┌BIM?■GxBpB
+влB■GxBБ╔B
+влB■GxB}≥BjMTB■GxBР▓РB#йB■GPB│UЪB#йBФnoB╤╓╡B
+влBФnGBЬC#йB■GPB│UЪB
+влBФnoB`eУB
+влB■GPB│UЪB
+влBФnoB╤╓╡B#йB■GxB╤╓╡B
+влBs╥▀BБ╔B^IBhБ5B╬÷nB^IB■GPBn4ЪAпуNBB YBМ█┌BпуNB!░─BpB^IB■GxBpB^IB!░─BpB^IB!░─BpBпуNB■GxBpBпуNB(▐╟AынCпуNBOAA╙qРBjMTB≥╩A╙qРBпуNB≥╩A╙qРBjMTBOAA╙qРBjMTB≥╩A╙qРBjMTB≥╩A╙qРB
+влBhy@╙qРBjMTBOAA╙qРBпуNBOAA╙qРBпуNBOAA╙qРB#йBOAA╙qРBjMTBOAA╙qРBпуNBлщ·A╞ЕBjMTBлщ·A8CпуNBлщ·A8CjMTBлщ·A╞ЕBjMTB(▐╟A╞ЕBпуNB(▐╟AынCjMTB(▐╟AынCпуNB(▐╟AынCjMTBлщНAижCjMTB(▐╟AынCjMTB■G B▒mCпуNBB YBМ█┌BпуNB!░─BpB
+влB■GxBБ╔B
+влB■GxBБ╔BпуNB■GPBБ╔BпуNB■GxBБ╔B
+влB■GxB╤╓╡BпуNB■GxBБ╔B
+влB■GxBБ╔BпуNB■GxBР▓РBjMTBs╥▀Bя╒ХBпуNB■GxBР▓РBпуNBs╥▀Bя╒ХB^IBhБB├UB^IB■G B┼≥AпуNB┐@бA▄8B^IB■G B┼≥AпуNB■G BqlLB^IB■G BqlLB^IB┐@бAг)LA╬M@┐@бAг)LA^IB(▐╟Aг)LAпуNB┐@бAг)LA^IB(▐╟Aг)LA^IB┐@бAг)LA^IB┐@бA▄8BпуNB┐@бAг)LA^IB┐@бAг)LAпуNB┐@бA▄8BпуNB(▐╟Aг)LA╬M@(▐╟Aг)LA^IB(▐╟Aг)LAпуNB(▐╟Aг)LAпуNB(▐╟Aг)LAпуNB(▐╟A    пуNB(▐╟AЯ)л@IM?(▐╟AЯ)л@IM?OAAЯ)л@╬M@│dAЯ)л@╬M@OAAЯ)л@╬M@│dAЯ)л@╬M@OAAЯ)л@пуNBOAA    ╬M@OAAЪaBIM?OAAЯ)л@╬M@OAAЯ)л@IM?OAAЪaBIM?╝╥@x:	B╬M@OAAЪaB╬M@╝╥@x:	B╬M@│dAэB╬M@■GxBpBIM?■GxBpBIM?!░─BpB╬M@!░─B┼P▐B╬M@■GxBpBпуNB■GxBn4ЪAпуNB■GxBn4ЪA╬M@B YBМ█┌B╬M@!░─BpBIM?■GPBЩvB╬M@■GxB~▄BIM?B YBМ█┌BIM?■GxB~▄BIM?■GxBpB╬M@■GxB~▄BIM?■GxB~▄BjMTBФnoB`eУBjMTB■GxBР▓РB#йBФnGBЬC#йBФnoB`eУB#йB■GxB╤╓╡B#йBФnoB╤╓╡B
+влBФnoB`eУB#йBФnoB`eУB
+влB■G(BJC
+влB■GPBRg©B
+влB■GPBRg©B#йB■GPB│UЪB
+влB■GPB│UЪB
+влBФnoB╤╓╡B#йBФnoB╤╓╡B
+влB■GxB╤╓╡B
+влBФnoB╤╓╡B
+влBФnoB╤╓╡B
+влB■GxB╤╓╡B#йB■GxB╤╓╡BпуNB■GxB╤╓╡B#йB■GxB╤╓╡B^IBB 1B║√kB^IB■GPBЩvB^IBB 1B║√kB^IBhБ5B╬÷nB^IBB YBn4ЪA^IB■GPBn4ЪAпуNB■GPBЩvB^IB■GPBЩvBпуNBB YBn4ЪA^IBB YBМ█┌BпуNBB YBМ█┌BпуNB■GxBpBпуNB■GxBpB╬M@■GxBpB^IB■GxBpBпуNB■GxBpBпуNBлщНAижCпуNBлщ·A╞ЕBпуNBOAA╞ЕBпуNB≥╩A╙qРBпуNBOAA╙qРBпуNB≥╩A╙qРB#йB≥╩A╙qРB
+влBOAA╙qРB#йBOAA╙qРBjMTBлщ·A╞ЕBпуNBлщ·A╞ЕBjMTB(▐╟A╞ЕBjMTBлщ·A╞ЕBjMTBлщ·A╞ЕB
+влBOAA╞ЕBjMTB(▐╟A╞ЕBпуNB(▐╟A╞ЕBпуNBлщНAижCjMTB■G B▀ЛьBjMTBФnB│uCпуNB■GPBЩvB
+влB■GPBБ╔BпуNB■GPBБ╔BпуNBФnoB╤╓╡BпуNB■GxBБ╔BпуNBФnoB`eУB^IB■G(BдЯeB^IBhБB├UBпуNB■G(BдЯeB^IBB 	BhRB^IBB 	B┼≥AпуNB■G BqlLBпуNB┐@бA▄8BпуNB■G B┼≥AпуNB■G Bг)LA╬M@(▐╟Aг)LAпуNB┐@бAг)LAIM?(▐╟Aг)LAпуNB┐@бAг)LAпуNB┐@бAг)LAпуNB(▐╟AЯ)л@пуNB(▐╟Aг)LAпуNB(▐╟A    IM?(▐╟AЯ)л@пуNB(▐╟AЯ)л@IM?│dAЯ)л@IM?■G BЯ)л@пуNB(▐╟AЯ)л@IM?(▐╟AЯ)л@пуNB(▐╟AЯ)л@IM?(▐╟AЯ)л@IM?│dAЯ)л@IM?OAA    пуNB(▐╟A    пуNBOAA    IM?OAA    IM?OAAЪaBIM?│dAэBIM?OAAЪaB╬M@(▐╟A8Г2B╬M@■GxBpBIM?■GxBpB╬M@■GxBpBпуNB■GxBn4ЪAIM?■GxBn4ЪAIM?■GxBЭ)лAпуNB■GxBn4ЪAIM?■GxBn4ЪAIM?■GxBn4ЪA╬M@B YBn4ЪAпуNB■GxBn4ЪAпуNB■GxBpB╬M@■GPBЩvB╬M@B YBМ█┌BIM?B 1B║√kBIM?■GPBn4ЪAjMTB■GPB│UЪBjMTB■GxB╤╓╡BjMTB■GxB╤╓╡BпуNB■GxBР▓РBjMTB■GxBР▓РB#йB■G(BJC#йBФnGBRg©B#йB■GxB╤╓╡BjMTB■GxB╤╓╡B#йBФnoB╤╓╡B
+влBФnB│uC#йB■G(BJC
+влBФnGBЬC
+влB■G(BJC
+влBФnGBRg©B#йB■GPBRg©B
+влB■GPB╤╓╡B
+влBФnoB╤╓╡B
+влB■GPB╤╓╡BjMTB■GxB╤╓╡BпуNBB 1B║√kBпуNBB YBn4ЪA^IB■GPBn4ЪA^IBB YBn4ЪA^IBB YBn4ЪA^IB■GPBn4ЪA^IBB YBn4ЪAпуNB■GPBn4ЪAпуNB■GPBЩvBпуNBB YBn4ЪAпуNB■G B▒mCпуNB(▐╟A╞ЕBпуNBhy@╞ЕBпуNBOAA╞ЕBпуNBhy@╙qРB
+влB≥╩A╙qРB
+влBOAA╙qРB#йB≥╩A╙qРB#йBOAA╙qРB#йBOAA!0C
+влBOAA╙qРB#йBOAA╙qРB#йBOAA╙qРB#йB≥╩A╙qРB#йBOAA!0CпуNBлщ·A╞ЕBпуNB(▐╟A╞ЕB#йBлщ·A╞ЕBпуNB(▐╟A╞ЕB#йB(▐╟A╞ЕBjMTB(▐╟A╞ЕBпуNBлщНA▀ЛьBjMTBлщНAижCпуNBлщНAижCjMTBлщНA▀ЛьBjMTB■G B▀ЛьBпуNB■G B▒mCjMTB■G B▒mCпуNB■G B▒mCjMTBФnB│uCjMTB■G B▒mCjMTB■G(BJCпуNBB 1B║√kB
+влB■GPBБ╔BпуNB■GPB╤╓╡B
+влB■GPBБ╔BпуNB■GPBБ╔BпуNB■GPB╤╓╡BпуNB■GxB╤╓╡BпуNB■GPB│UЪBпуNBФnoB╤╓╡B^IB■G(BдЯeBпуNBB 	BhRB^IBB 	B┼≥A╬M@B 	B┼≥A^IB■G B┼≥AпуNBB 	B┼≥A^IB■G B┼≥A^IBB 	B┼≥A^IBB 	BhRBпуNBB 	B┼≥A^IBB 	B┼≥AпуNBB 	BhRBпуNB■G B┼≥A╬M@■G B┼≥A^IB■G B┼≥AпуNB■G B┼≥AпуNBB 	B┼≥AпуNB■G B┼≥AIM?┐@бAг)LAIM?(▐╟Aг)LA╬M@┐@бAг)LA╬M@(▐╟Aг)LA╬M@┐@бAг)LA╬M@┐@бA▄8B╬M@(▐╟Aг)LAпуNB■G BЯ)л@пуNB■G Bг)LA╬M@(▐╟A8Г2BIM?(▐╟Aг)LA╬M@(▐╟Aг)LAIM?(▐╟A    IM?(▐╟A    IM?│dAЯ)л@IM?(▐╟AЯ)л@IM?│dAэB╬M@│dAЯ)л@IM?│dAЯ)л@пуNB■G BЯ)л@IM?(▐╟AЯ)л@IM?┐@бAг)LAIM?■G BЯ)л@IM?(▐╟Aг)LAIM?OAA    IM?OAAЯ)л@IM?│dAЯ)л@IM?OAAЯ)л@╬M@│dAэBIM?(▐╟A    IM?(▐╟A8Г2BIM?│dAэB╬M@(▐╟A8Г2B╬M@│dAэBпуNB■GxBЭ)лAIM?■GxBЭ)лAIM?B YBn4ЪAIM?■GxBn4ЪAIM?B YBn4ЪA╬M@B 1B║√kB╬M@B YBn4ЪA╬M@B YBn4ЪAIM?B YBМ█┌B╬M@B YBМ█┌BIM?■G(BдЯeBIM?■GPBЩvB╬M@B 1B║√kBIM?B 1B║√kBIM?B YBn4ЪAIM?■GPBn4ЪA╬M@■GPBЩvBIM?■GPBЩvBjMTBФnGBЬCпуNB■GPB│UЪBjMTBФnoB`eУBjMTB■GPB│UЪBjMTBФnoB╤╓╡BпуNB■GxB╤╓╡B#йBФnB│uC#йBФnGBЬC#йB■GPBRg©B#йBФnGBRg©B
+влBФnGBЬC#йBФnGBЬC
+влB■G B▒mC
+влB■G(BЭ)лB
+влB■G(BЭ)лB#йB■G(BJC
+влB■G(BJC
+влBФnGBRg©B#йBФnGBRg©B
+влB■GPBRg©B
+влBФnGBRg©B
+влBФnGBRg©B
+влB■GPBRg©B#йB■GPBRg©BпуNB■GPBRg©B
+влB■GPBRg©B#йB■GPBRg©BjMTB■GxB╤╓╡BпуNBФnoB╤╓╡BпуNB■GxB╤╓╡B^IB■G(BЭ)лAпуNBB 1BЭ)лA^IBB 1B║√kBпуNBB 1B║√kBпуNB■GPBn4ЪAпуNBB YBn4ЪA╬M@■GPBn4ЪAпуNB■GPBn4ЪA╬M@■GPBn4ЪA^IB■GPBn4ЪAпуNB■GPBn4ЪAпуNBФnB│uCпуNBлщНA▀ЛьBпуNB(▐╟A▀ЛьBпуNBлщ·A╞ЕBпуNB(▐╟A╞ЕBпуNBhy@╙qРB
+влBOAA╞ЕBпуNBhy@╞ЕBпуNBOAA╞ЕB
+влBOAA╞ЕB
+влBhy@╞ЕBпуNBhy@╙qРB
+влBhy@╙qРB
+влBhy@╙qРB
+влBOAA╞ЕB
+влB≥╩A╙qРB
+влB≥╩A╙qРB
+влB≥╩AX≥C#йB≥╩A╙qРB
+влB≥╩A╙qРB
+влBOAA!0C#йB≥╩AX≥CпуNBOAA╞ЕB
+влBлщ·A╞ЕB#йB(▐╟A╞ЕB
+влB(▐╟A╞ЕBjMTBлщНA▀ЛьBпуNBлщНA▀ЛьBjMTB■G B▀ЛьBjMTBлщНA▀ЛьBjMTBлщНA▀ЛьB
+влB(▐╟A▀ЛьBjMTB■G B▀ЛьBпуNB■G B▀ЛьBпуNBФnB│uCjMTB■G(BЭ)лBпуNB■G(BдЯeB
+влB■GPB╤╓╡BпуNBФnoB╤╓╡BпуNB■GPB╤╓╡BпуNB■GxB╤╓╡BпуNBФnGBЬCпуNBФnoB`eУBпуNBФnoB╤╓╡BjMTBФnoB`eУBпуNBФnoB`eУB^IB■G(BЭ)лAпуNB■G(BдЯeB^IB■G(BдЯeBпуNBB 	BhRBпуNB■G(B┼≥A╬M@■G B┼≥AпуNBB 	B┼≥AIM?■G B┼≥AпуNBB 	B┼≥AпуNB■G Bг)LAпуNB■G B┼≥AIM?■G Bг)LAIM?┐@бA▄8B╬M@┐@бAг)LAIM?┐@бAг)LAIM?┐@бAг)LA╬M@┐@бA▄8BпуNB■G BЯ)л@IM?■G Bг)LAпуNB■G Bг)LAIM?(▐╟A8Г2BIM?■G BЯ)л@IM?■G Bг)LAIM?┐@бAг)LAIM?(▐╟Aг)LAIM?┐@бA▄8BIM?(▐╟A8Г2B╬M@■G BqlLBпуNB■GxBЭ)лAIM?■GPBЭ)лAIM?■GxBЭ)лAпуNB■GxBЭ)лAпуNBB YBn4ЪAпуNB■GxBn4ЪAIM?■GPBЭ)лAIM?B YBn4ЪA╬M@B YBn4ЪAIM?■GPBn4ЪAIM?B YBn4ЪA╬M@■G(BдЯeB╬M@■GPBЩvB╬M@■GPBn4ЪAIM?B 	BhRBIM?■G(BЭ)лA╬M@B 1BЭ)лAIM?B 1B║√kB╬M@B 1B║√kBIM?■GPBn4ЪA╬M@■GPBn4ЪAjMTB■GPBRg©BjMTB■GPBRg©BпуNB■GPB│UЪBjMTB■GPB│UЪBjMTBФnoB╤╓╡BjMTBФnoB╤╓╡BjMTBФnoB╤╓╡B#йB■G B▒mC#йBФnBЭ)лB#йB■GPBRg©BjMTB■GPBRg©B#йBФnGBRg©B
+влBлщНAижC#йB■G B▒mC
+влBФnB│uC
+влB■G B▒mC
+влBФnBЭ)лB#йB■G(BЭ)лB
+влB■G(BRg©B
+влBФnGBRg©B
+влB■G(BRg©BпуNB■GPB╤╓╡B
+влB■GPB╤╓╡BjMTB■GPBRg©B^IBB 1BЭ)лA^IBB 1BЭ)лAпуNBB 1BЭ)лAпуNB■GPBЭ)лAпуNB■GPBn4ЪA╬M@■GPBn4ЪAIM?■GPBn4ЪAпуNB■G(BJCпуNB■G B▀ЛьBпуNBOAA▀ЛьBпуNB(▐╟A▀ЛьBпуNBhy@╞ЕB
+влBhy@╞ЕB
+влBOAA▀ЛьBпуNBOAA╞ЕB
+влBOAA╞ЕB
+влBOAA╙qРB
+влBhy@╞ЕB
+влBOAA╙qРB
+влB≥╩AX≥C
+влB≥╩A╙qРB#йB≥╩AX≥C#йBOAA!0C
+влBлщ·A8C
+влBOAA!0C
+влB≥╩Aу8C
+влBOAA!0C
+влB(▐╟A▀ЛьB
+влBлщ·A╞ЕB#йBлщ·A╞ЕB
+влB(▐╟A╞ЕB
+влBлщ·A╞ЕB
+влBлщ·A8C#йBлщ·A╞ЕB
+влBлщ·A╞ЕB#йB(▐╟A╞ЕB#йBлщ·A╞ЕB#йB(▐╟AынC#йB(▐╟A╞ЕB#йB(▐╟AынC
+влB(▐╟A╞ЕB#йB(▐╟A╞ЕBпуNBлщНA▀ЛьBпуNB■G B▀ЛьB#йBлщНA▀ЛьBпуNB■G B▀ЛьB#йB■G B▀ЛьBjMTB■G B▀ЛьBпуNBФnBЭ)лBjMTBФnB│uCпуNBФnB│uCjMTBФnBЭ)лBjMTB■G(BЭ)лBпуNB■G(BJCjMTB■G(BJCпуNB■G(BJCjMTBФnGBЬCjMTB■G(BJC
+влB■GPB╤╓╡BпуNB■G(B╤╓╡BпуNB■GPB╤╓╡BпуNBФnGBRg©BпуNB■G(BЭ)лAIM?B 	B┼≥AIM?■G B┼≥A╬M@B 	B┼≥A╬M@■G B┼≥A╬M@B 	B┼≥A╬M@■G B┼≥AпуNB■G(Bг)LAпуNB■G(B┼≥AпуNB■G Bг)LA╬M@■G BqlLBIM?■G B┼≥A╬M@■G B┼≥AIM?■G Bг)LAпуNB■G(Bг)LAпуNB■G Bг)LAIM?■G Bг)LAIM?┐@бA▄8B╬M@■G BqlLB╬M@┐@бA▄8BIM?■G BqlLB╬M@B 	BhRBпуNB■GPBЭ)лA╬M@B 1BЭ)лA╬M@■G(BдЯeBIM?B 	BhRBIM?■G(BдЯeBIM?B 1BЭ)лAIM?■G(BЭ)лA╬M@■G(BдЯeBIM?■G(BдЯeBIM?B 1BЭ)лAпуNB■GPBЭ)лAIM?■GPBЭ)лAjMTBФnGBRg©BпуNB■GPBRg©B#йBлщНAижC#йBФnB│uC#йB■G(BЭ)лB#йBФnBЭ)лB
+влBФnB│uC#йBФnB│uC
+влB(▐╟AынC
+влB■G B▀ЛьB
+влB■G B▀ЛьB#йB■G B▒mC
+влB■G B▒mC
+влBФnBЭ)лB#йBФnBЭ)лB
+влB■G(BЭ)лB
+влBФnBЭ)лB
+влBФnBЭ)лB
+влB■G(BЭ)лB#йB■G(BЭ)лBпуNB■G(BЭ)лB
+влB■G(BЭ)лB#йB■G(BЭ)лB
+влB■G(B╤╓╡BпуNBФnGBRg©BпуNB■GPBRg©BjMTB■GPBRg©BпуNBФnGBRg©BпуNB■GPBRg©BпуNBB 1BЭ)лA^IB■G(BЭ)лA^IBB 1BЭ)лA^IBB 1BЭ)лA╬M@B 1BЭ)лA^IB■G(BЭ)лAпуNB■GPBЭ)лAпуNBB 1BЭ)лAпуNB■G(BЭ)лAпуNBФnBЭ)лBпуNB■G BЭ)лBпуNBлщНA▀ЛьBпуNB■G B▀ЛьB
+влB(▐╟A▀ЛьBпуNBOAA▀ЛьBпуNB(▐╟A▀ЛьB
+влB(▐╟A▀ЛьBпуNBOAA▀ЛьB
+влBOAA▀ЛьB#йB≥╩Aу8C#йB╢Y∙A^ЗC
+влB╢Y∙A^ЗC#йB≥╩Aу8C#йB╢Y∙A^ЗC
+влB(▐╟A╞ЕB
+влB(▐╟A╞ЕB
+влBлщ·A8C
+влBлщ·A╞ЕB#йBлщ·A8C#йBлщ·A8C
+влB(▐╟AынCпуNB(▐╟A▀ЛьB
+влBлщНA▀ЛьB#йB■G B▀ЛьB
+влB■G B▀ЛьBjMTBФnBЭ)лBпуNBФnBЭ)лBjMTB■G(BЭ)лBjMTBФnBЭ)лBjMTBФnBЭ)лB
+влB■G BЭ)лBjMTB■G(BЭ)лBпуNB■G(BЭ)лBпуNBФnGBЬC
+влB■G(B╤╓╡BпуNB■G(B╤╓╡BпуNB■GPBRg©BпуNBФnGBRg©BjMTBФnGBЬCпуNBФnGBЬCпуNB■G(BЭ)лAпуNB■G(BЭ)лA╬M@■G(BЭ)лA^IB■G(BЭ)лAIM?■G(B┼≥AIM?B 	BhRB╬M@B 	B┼≥AIM?B 	B┼≥AIM?B 	B┼≥AпуNB■G(B┼≥AIM?■G(Bг)LAпуNB■G(Bг)LAIM?■G BqlLBIM?■G(Bг)LAIM?B 	B┼≥AIM?■G Bг)LAIM?■G B┼≥AIM?■G BqlLBIM?■GPB┼≥AпуNB■GPBЭ)лAIM?■GPBЭ)лAIM?■GPBЭ)лA╬M@B 	BhRB╬M@■G(BЭ)лAIM?■G B┼≥A╬M@B 1BЭ)лAIM?■G(BЭ)лAIM?B 1BЭ)лAIM?B 1BЭ)лAIM?■G(B┼≥AIM?■G(BЭ)лA╬M@■G(BЭ)лAIM?B 1BЭ)лAjMTBФnGBRg©BjMTBФnGBRg©BjMTBФnGBRg©B#йBлщНA▀ЛьB#йB■G(BЭ)лB#йBФnBЭ)лB#йB(▐╟AынC
+влBлщНAижC
+влB(▐╟AынC
+влBлщНA▀ЛьB#йB■G B▀ЛьB
+влBФnBЭ)лB
+влB■G BЭ)лBпуNB■G(BRg©B
+влB■G(BRg©BjMTB■G(BЭ)лB
+влB■G(B╤╓╡BпуNB■G(BRg©B
+влB■G(BRg©B╬M@■G(BЭ)лAпуNB■GPB┼≥AпуNBB 1BЭ)лAпуNB■GPBЭ)лAпуNB■G(B┼≥AпуNB■G(BЭ)лAпуNB■G(BЭ)лBпуNB(▐╟AЭ)лBпуNB■G BЭ)лB
+влBOAA▀ЛьB
+влB(▐╟AЭ)лBпуNB(▐╟A▀ЛьB
+влB(▐╟A▀ЛьB
+влB≥╩Aу8C#йBлщ·A8C
+влB╢Y∙A^ЗC#йBF╤тB▒O©B
+влB≥╩Aу8C
+влB╢хтBЯC©B#йB≥╩Aу8C
+влBлщНA▀ЛьB#йBлщНA▀ЛьB
+влB■G B▀ЛьB
+влBлщНA▀ЛьB
+влBлщНAижC#йBлщНA▀ЛьB
+влBлщНA▀ЛьB#йB■G B▀ЛьB#йB■G B▀ЛьBпуNBФnBЭ)лBпуNB■G(BЭ)лBпуNB■G(B╤╓╡BпуNB■G(BRg©BIM?■G(BЭ)лAIM?■G(B┼≥AпуNB■GPB┼≥AпуNB■G(B┼≥AпуNB■G(B┼≥AIM?■G(B┼≥AIM?■G(B┼≥AIM?■G(Bг)LAIM?■G(B┼≥A╬M@B 	BhRBIM?B 	B┼≥AпуNB■GPB┼≥AIM?■GPB┼≥AIM?■GPBЭ)лA╬M@■G(BЭ)лAпуNBФnGBRg©B#йBлщНAижC#йBлщНAижC
+влB■G B▀ЛьB
+влB■G BRg©B
+влB■G(BRg©BпуNB■G BRg©BпуNB■G(BRg©BпуNB■G(BRg©BпуNBФnBЭ)лBпуNB■G(BЭ)лB
+влB■G BЭ)лBпуNB(▐╟AЭ)лBпуNB■G BЭ)лB
+влB■G BЭ)лBпуNB(▐╟AЭ)лB
+влB(▐╟AЭ)лBпуNB■G BЭ)лBIM?■GPB┼≥A
+влB■G BRg©BпуNB■G BЭ)лB
+влB■G BЭ)лB
+влB■G BRg©BпуNB■G BRg©B
+влB(▐╟AЭ)лBпуNB■G BRg©B                                   	   
+                                                      
+         
+                                                    !   "   #   $   %         &   '   (         )   *      +   ,      
+         -   .   /   0   1   2   3   4   5   6   7            8   9   :   ;   <   $   #   >   8         ?   @   A   B   C   D          E      7   F   G   H   I   #   "   J      %   K   '   &   L   M   N   O   )      P   Q   R   S   T   U   V   W      *   X   Y   Z   R   Q   [   ,   \      ]   ^   _   -      `      -   a   /   .   b   2   1   c   d   e   f   5   4   g   h   i   j   ;   :   n   o   p   q   @   ?   r   t   u   v   w   x   y   z   {   |   }   ~      ─   C   B   │   ┌   k   ┐   └   ┘   H   G   ├   ┌   │   ▀   ▄   █   ▌   ▐   ░   ▒   ▓   ⌠   M   ∙      √   M   ≈   N   ≤   ≥       ⌡   °   ²   P      ·   ÷   ═   ║   ╒   ё   ╓   ╔   U   T   ╕      W   W   *   ╖   Y   X   ╗   ╙   ╚   ╛   ╜   \   ,   ^   ]   ╝   `      ╞   ╟   ╠   ╡   Ё   ╢   ╣   ╠   ╟   ╤   ╥   ╦   ╧   e   d   ╫   ╜   ,   ╬   ©   ю   а   б   ц   д   e   е   f   ф   г   х   i   h   и   \   й   к   ┴   ┬   {   л   м   н   о   п   я   p   o   р   с   т   у   ж   в   z   ь      s   u   t   ы   x   w   з      ь   ш   в   {   z   ~   }   э   щ   C   ─   ч   └   ┐   ├   G   ъ   ┤   └   Ю   ⌠   ▓   А   █   ▄   Б   Ц   Д   Е   ░   ▐   Ф   ▒   ░   Г   M   ⌠   Х   е   И   Й   Л      ∙   М   Н   О   П   Я   Р   M   С   ≈   Т   У   Ж   ≥   ≤   В   Ь   °   ⌡   ·      Ы   З   Ш   Э   Щ   Ч   Ъ   ╘   ═   ÷   ё   ╒        U   ╔        ╕               	  ╖   *   W   ╖   
+          ╛   ╚     \   ╜   ╞              ╢   Ё                 ╦   ╥     ю   ©     ц   б       е   e   f   е     г   ф      и   h   !  м   л   "  #  $  %  &  '  (  )  *  +  й   \   ,  -  .  /  ┴   {   0  1  8   2  о   я   4  5  6  7  8  у   т   0  {   в   :  <  =  >  ?  @  ?  >  A  B  C  D  H  ш   ь   I  J  K  щ   L  C   щ   ─   M  N  └   ч   O  P  Q  T  U  V  ┤   Ю   W  *  )  X  Y  Z  [  \  ]  ^  _  `  a  b  Д   Ц   c  d  e  f  g  h  Г   ░   i  ▒   Г   j  й   k  l  M   Х   m  И   е   n  o  p  q  s     Л   t  u  v  Н   М   w  ╖   u  t  x  y  z    Я   П   M   {  С   |  }  ~    ─  │  У   Т   ┌  ┐  └  ┘  }  |  ├  ┤  ┬  ┴  ┌  \   o  ┼  ▀  ▄  █  °   Ь   ┬  ┤  ▌  Ы      ▐  ░  ▒  ▓  Ш   З   ⌠  ■  ∙  √  ≈  Ч   Щ   ≤  ≥     ≥  ≤  ⌡  °  ²  ·  щ   U       ╔   Ч   ÷       ═  ║  ╒      ё  ╓  ╔  ╕      ╖  u  ╖   	  ╗  ╘  ╙      6  ╜  ╝      ╞  ╛   ╠  \     ╡  Ё  ╢  ╣  ╤  ╥       ╧  ╞     ╨      ╩  ╪  ╫  ╬  а  б  ц  д  е       е   ╩     ф   R  и   !  ф  х  $  #  и  й  к  л  м  н  '  &  о  ,  \   п  k  й   ,  я  .  -  р  8   1  с  т  у  ж  в  ь  ы  з  ш  э  щ  ч  8   р  ъ  Ю  А  Б  6  5    8  ╝  у   9  <  :  A  >  Ц  C  B  Д  ш   H  Е  Ф  Г  Х  E  O  F  Г  Ф  И  J  I  Й  К  ╝  8  щ   в  L  щ   M  U   Л  └   N  М  Н  О  P  O  E  R  S  П  U  T  Я  Р  T  V  С  Т  У  Ж  В  Ь  Ы  Z  Y  ]  \  З  Ш  `  _  Д   b  Э  d  c  Щ  Ч  Ъ     g  f    i  ░               N    	  
+              M   m    n  е     o  \   p                    ▐     s             !  "  #  $  %  &  '  y  x  (    )  Я   &  %  *  M   +  {  ,  -  .  /  0  1  2  │  ─  └  ┐  3  ┌  Т   -  4  5  6  6  5  7  ▀  ┼  8  9  \   ┌  │  °   █  :  ;  <  >  ?  @  A  B  C  ╟  ▒  ░  D  E  F  ∙  ■  G    Ч   ≈  ²  °  H  I  F  E  J  K  L  M     ÷  ÷    N  ║  ═  O  P  Q  R  ╔  ╓  S  ╔  е   ╕  U  V  W      X  Y  Z  [  ╘  ╗  \  у   ╝  ╜    ╝  ╞  ╛   ╞  I  ^  \   ╠  ╦  _  `  Ё  ╡  a  ╤  ╣  b  c  д    б  а  e  ╧     f  g  h  i  j  k  l  h  g  m  n  o  p  ╫  ╪  r  д  c  u  v  е   д  ╩  е   w  T  x  y  z  {  |  }  ~    ~  ─  │  т  с  ┌  ┐  └  ┘  $  х  ┤  й  и  ┬  м  л  ┴  ┼  ▀  ▄  п  \   █  ▐  ░  ▒  ▓  .  я  В  Ж  ⌠  ■  ∙  √  ≈  ≤  ≥  L  в  ж  з  ы     ⌡  °  ²  щ  э  ·  °  ÷  ═  А  Ю  ║  ╒  <  9  Ц  >  ё  R  П  ╓  ╖  ╗  ╘  Е  H  ╙  ╜  ╝  ╞  └  ┐  ╟  ╠  ╝  К  щ   ╡  в  Ё  └   Л  Л  N    Н  М  ╢  U  Я  ╔  T  Р  ╣  └   ╤  ╥  С  У  ╦  Ы  ╧  Z  ╨  ╩  ╪  ╫  ╬  ©  ю  а  б  `  Ш  ц  д  ┼  е  ф  г  х  и     Ъ  й  к  л      п  	    я      р  с      т  у  ж  ▌  в  ь  M     ы    е   з  ш  э  щ  p  \   ч      ъ      Ю  А  Б  Ц      з  Д  Е  Ф  Х  ]  И  )       Й  К  Л  #  "  М       )  Н  О  П  *  %  е   M   Я  +  Р  С  Т  У  Ж  В  -  ,  Ь  0  /  Ы  2  °   │  ;  :  З  ┌  -  Ь  Ш  5  4  э  ш  Э  █  \   9  ┌  Ь  9  <  ;  Щ  ?  >  Ч  Ъ         B  A                  	    ≈  B  I  ╞  F  J  
+  K  L  K         M              Q  P    V  U      е   ╔  ╕  е   %  	  ]  Х  К  Й      [  Z          \   ^  ^  ╠    _  ╦  d         f       "  #  $  k  j  q  #  "  %  w  &  '  o  n  (      +  ,  е   v  -  .  /  w  е   0  T  1  x  {  z  2  3  4  5  ╢  М  6  ─  ~  }  }    7  8  9  К  :  ;  ■  я    <  @  A  B  C  ∙  ;  D  E  F  A  @  G  >  ∙  C  ▀  ┼  д  H  ╧  Ы  в  ▌  п  J  K  L  ░  ▐  M  ▓  N  .  ▓  я  O  P  Q  R  ;  ∙  ■  ≤  ≈  S  T  U  V  ÷  °  ⌡  ⌡  ²  W  X  Y  Z  [  \  ]  >  =  ∙  ╒  ^  <  ╒  9  _  `  a  b  c  ╘  ╗  ╝  d  e  ╘  f  g  ╝  ╜  d  h  ╝  ╠  ╠  К  9  щ   i  ╡  j  k  l  m  └   Ё  n  o  p  <    q  ╣  Р  s  T  ╣  t  ╤  └   u  v  w  x  Z  ╧  y  ╩  ╨  м  ╬  ╫  z  {  |  }  а  ю  ~  е  ┼    г  ─  х  и  ╧     к  й  │  у  т  ┌  с  °     ┐  └  ┘  ├  ┤  ┬  ┴  ┼  ▀  M   ы  ▄  з  е   █  ч  \   Д  Б  А  ▌  ▐  ░  ▒  Д  \   Е  ▓  ⌠  ■  ∙  √  ≈  █  ≤  ≥     ⌡  °  О  Н  ²         
+  J  ·  M   ▄  Я  ÷  9  ═  С  Р  ║  ╒  ё  ╓  ╔  Ж  У  ╕  ╖  ╗  ╖  ╕  ╘  ╙  ╚  ╛  Ж  °   2  Ш  ╜  5  Ш  4  ╝  ╟  ╠  ╡  =    ╢     Ъ  ╣    B        ╤  ╥      F  ╞  ╥  ╢    ╦  ╧  ╨  ╩      ╪      ╫  ╬  ©    ю  а  б  ©  е       ╞  [  ц  \     д  е  ф  г  х  и  .  -  к  f    л  &  w  0  м  н  о  ,  я  р  х  г  с  т  е   ,  я  ,  v  0  е   ©  T  t  1  у  ж  в  ж  у  ь  B  A  ы  з  5  4  ^  E  D  a  `  ш     ╧  H  █  э  I  ┤  ├  щ  ч  ъ  Ю  А  Б  Ц  Д  K  J  Е  Ф  Г  ▓  г  N  Q  P  Е  ▓  O  Ш  k  j  Х  U  T  в  \  [  И  Й  К  Л  ⌡  W  М  X  Z  О  П  р  Я  ╒  E  ^  5  f  c  c  f  ╘  Р  ╝  h  щ   С  i  ╡  i  Т  У  Ж  В  Ь  └   m  m  Ё  Ы  o  n  З  Ш  Э  Щ  в  T  у  Ч  Ъ       s  Р                	  
+  u  └           w  v    y  ╧  °                 |  {              а  ~    ▓  ─  г    ╧  и       !  y  °   с    °   "  └  ┐  #  "  ▀  ┼  $  %  &  э  █  '  █  е   т  (  )  *  ░  ▐  +  Е  \   -  ⌠  ▓  .  √  ∙  /  0  1  ,  ≤  █  т  2  ц  3  ⌡     4    ╞    [  ╞  5  ·  6  
+  7  8  9  :  ;  <  9  ÷  ╞  ё  ╒  =  ╔  °   Ж  ╚  ╙  >  ╜  ╠  ╟  Ш  ╠  ╜  Ш  ╝  ?  8  7  @  A  B  C  ╥  ╞    ╨  ╧  п  ©  ╬  D  E  F  G  а  ю  H  2  \   ц  !  I  J  е  д  K  I  !  й  н  м  L  M  N  O  N  M  P  Q  R  S  T  U  V  W  X  Y  ы  A  Z  з  f  5  %  $  [  \  ъ  ч  Б  А  ]  Ш  K  Д  Ф  Е  P  Ш  O  K  `  К  Й  a  b  c  d  e  f  g  h  i  f  e  j  k  З  n  l  m  n  o  p  q  р  r  s  t  u  v  r  р  П  w  x  y  Т  i  z  ╒  {  E  |  ╝  Р  Р  h  }  щ   ~  С    ─  │  Ж  У  ┌  ┐  └   Ь  └  ┘  ├  Э  ┤  ┬  Ы  ┴  m  o  З  ┼  ▀  Э  Ш  ▄    █  Ъ  Ч  ▌  ▐  ░  ╒  s    ▒      ▓  ⌠  ■  ∙  √          ≈  	    ▄    ▓  ≤  ≥     ⌡    └   °  u    ²      ·  ÷  ═  ║  ╒  ё  ╓  6  ·  ╔      ╕  ╖      а    ╗  |    ╘      ╙  ╚  ╛  ╜      ╝  ╜    ╚    ~  ╞  ▓  ╟  ─  ╜  ╧         ╠  "  °   ▀  Ш  Д  ъ  ╡  Ё  ╢  ╣  ╤  ╥  )  (  ╦  -  \   2  1  0  ╧  ╨  ╩  ╪  ╫  <  ;  ╬  ©  ю  ©  ╬  а  б  ц  д  <  °   ╔  Ш  е  ╠  е  B  A  ╤  ╣  ф  F  E  г  R  Q  х  и  V  U  й  к  л  X  W  м  Y  X  н  о  п  я  V  f  з  Ш  ъ  \  й  g  к  x  w  р  К  `  т  b  a  у  e  d  ж  h  g  й  З  k  в  m  l  ь  ы  з  ш  p  o  э  ┤  Э  ▀  u  t  щ  ч  ъ  Ю  А  Б  Ц  ╒  Д  {  п  о  Е  Ф  ╝  |  ─    Г  Х  }  h  Б  А  И  щ   Й  ~  С  ~  К  Л  М  Н  О  └   ┐  ┘  └  П  ы  ш  Я  Р  С  Т  У  з  ы  	  Ж  В  	  ▄  Ж  █    Ь  f  Ы  З  Ш  Э  Щ  ▐  Ч  ░  ╒  ░  Ъ      √      	  
+      ⌡             П  └         ≥  °  └             ²    ё  ╒    ═  ÷    ╔    6               !  "  #    ╖  $  ╞  ~  %  &  '  (  +  ,  -  ,  +  .  ╟  '  &  ▓  '  ╟  /  ╧  ╜  ▀  °   ╫  Ё  ╡  0  Ш  \  B  ╩  ╨  1  ╫  °   <  ц  б  2  Ш  B  е  и  f  V  3  4  5  7  4  3  8  9  :  ;  <  ч  @  ъ  <  A  Д  B  4  C  D  >  ъ  @  C  4  E  {  Д  A  з  У  F  С  Р  G  >  =  ъ  H     I       J  <  ъ  ч  ╒  K  Д  L  ╝  Ф  Ф  |  M  щ   N  Й  O  P  Q  К  ~  R  М  Л  S  T  └   О  О  ┐  U  Ы  f  V  W  Э  Ш  X  Ч  ▐  Y  Z  [  \  ]  ^  ╒  Ъ  _  ё  `        a      b  c  d  e  h      П    i    └   j  °    k      l  m  n  o  p  q  r  s  t  u  v  w  x  ё    y  q  p  z  ~        ╔  ─  │  ▓  ┌      )      ┐       └  "  !  ┘  ├  ┤  ┬  ┼  ▀  ▄  ▓  █  '  ▌  ╧  /    f  и  ▐  ░  ▒  E  4  7  H  I  ▓  ⌠  r  ■  ╒  ∙  K  ░  ▐  √  ≈  ╝  L  P  O  ≤  ≥  M  |     ⌡  °  щ   ²  N  Й  N  ·  ÷  ═  ║  ⌡     ╒  ё  ╓  ╔  ╓  ё  ╕  ╖  └   T  ╗  ╘  ╙  ╚  U  ┐  ╛  ╜  ╝  V  f  ╞  Ы  V  ╟  ╠  Э  W  Ч  X  ╡  Z  Y  Ё  ]  \  ╢  _  Ъ  ╣  ╒  _  ╤  ё  ╥  `  ╦  ╧  ╨  ╩  ╪  ╫  ╬  ╩  ©  ю  ∙  а  б  ц  д  ╪  ╩  ╬  d  c  е  ф  ©  г  h  f    ц  б  х  и  й  к  j  └   л  м  н  о  п  k    ё  y  я  w  v  р  n  m  с  т  s  у  т  t  s  u  t  ж  y    ~  в  ь  ы  ╧  ш  э  щ  ч  ъ  ▓  │  Ю  ч  щ  А  Б  Ц  Д  Е  Ф  Г  └    Х     └  И  Й  К  Л  М  Н  О  П  ┤  ├  ▀  ┼  Я  ▓  Р  █  С  ╧  ▌  ▌  /  Т  r  У  Ж  У  r  ⌠  ╒  В  ∙  K  ∙  ю  Ь  ╝  ≈  ≈  L  Ы  щ   З  ²  Ш  Э  Щ  ·  N  Ч  ═  ÷  Ъ  г  ╩       └   ╖  ╖  T    ╘  ╗          й  и    ╜  ╛    ╞  f  	  
+  ╟  V  Э  ╠                            ╣  Ъ                ╒  ╤     ё  !  ╥  `  ╥  "  ╧  ╦  #  $  %  &  '  (  )  ©  ╩  г  *  f  h  +  ,  -  л  └   .  j  л  /  н  м  0  1  2  3  4  5  6  7  8  9  :  ;  <  ё  я  =  8  7  A  =  я  B  C  в  D  E  t  т  F  G  H  I  Ю  J  ь  в  C  K  з  {  L  M  N  ш  ╧  O  P  Q  R  ▓  Ю  S  Ц  Б  T  ┤  П  U  V  Т  /  Ф  Е  W  Х    X  К  Й  Y  Z  Н  М  ▓  [  Р  █  Р  \  ]  ╧  С  ^  _  `  a  b  c  ╒  d  В  ,  +  e  f  ╝  Ь  Э  Ш  g  h  Ы  L  i  j  k  щ   l  З  ²  З  m  n  o  p  j  i  q  r  s  t  u  У  v  s  r  w  z  └     {  |  }  ~    T    ─  │  ┌  ┐  └      ┘  "  ╥  ┴  	  f  ┼  ╞  	  ▀  ▄  █  ▌  ▐          ░  ▓    ░      ⌠  ■  ∙  √  ≈  ≤  ≥             ⌡     ╤  °  ╒     ²  ё  ·  !  %  $  ÷  ═  ║  ╒  (  '  x  ё  f  *  .  └   ╓  ╔  ╕  ╖  ╗  /  л  ё  =  ╘  ;  :  ╙  2  1  ╚  ╛  5  4  6  5  ╜  ╛  4  ╝  ╟  =  B  ╠  ╡  Ё  ╢  ╣  ╤  t  E  ╥  ╦  ╧  ╨  ╞  ╩  ╪  G  F  ╫  S  Ю  I  ╬  ©  ю  з  K  а  M  L  б  O  ╧  ц  Q  P  д  ▓  S  е  \  Р  ф  b  a  х  г  и  й  к  л  м  н  о  п  Н  Z  я  ▓  р  [  _  ^  с  т  ╧  ]  ]  С  у  ╒  ж  d  В  d  в  ь  ы  з  ш  ╝  f  f  Ь  э  щ  ч  ъ  щ   Ю  l  А  Б  Ц  m  З  Д  o  n  Е  ъ  Ф  Г  Х  У  u  ╓  └   z  |  {  Й  К  Л  М  Н  о  О  ┐  ┌  П  ─    Я  Й  {  Р  !  ·  С  ┼  f  Т  У  ▀  	  Ж  █  ▄  В  ▒      ▐  Ь  ░    Ы  З  Ш  Э  Щ  Ч  Ъ           ≤  ≈  ∙  ■    ≥  ≤    	  
+    °  ╤                ╒  ²    ё    ·  У  Х          ║  ═    ╒  ║      f  ё  ё  *    ╕  ╔    ╖  ╕         !  "  #  $  %  &  '  ё  ╘  (  #  "  ,  -  ╘  .  ╛  /  5  0  1  2  3  4  5  6  ╠  7  ╩  ╞  >  8  9  :  ╡  ╠  6  ╣  ╢  ;  <  =  >  ?  @  A  ╧  ╦  B  C  D  E  D  C  F  =  G  H  I  J  ц  @  ?  K  ©  ╬  L  O  ц  J  ц  ╧  M  N  O  P  ▓  е  4  и  г  ├  л  к  Q  R  S  T  о  н  U  п  о  Н  ▓  V  р  [  р  W  X  Y  Z  [  ╧  т  \  ]  ^  _  у  С  `  a  b  ╒  c  ж  d  e  f  в  d  g  ы  ь  h  i  ╝  ш  Б  А  j  k  э  Ь  l  m  n  ч  Ф  ъ  щ   o  Ю  l  Ю  p  q  r  s  m  l  t  u  v  w  x  Х  y  v  u  z  ~    ─  ╓  z  │  ┌  ┐  └  Л  К  ┘  п  Н  ├  О  о  ┤  С  ·  ▀  Т  f  ▄  ┼  Т  █  ▌  ▐  ░  █  Ж  ▒  ▓  ⌠  ■  ▒  В  ∙  √  ≈  ≤  ≥     ⌡  Ш  З  °  ²  ·  ÷  Ч  Щ  ═  ║      ≤    ╒    ≤  ё  ╓  ≥    
+  	  ╕  ╖  ╗  ╘  ╙  ╚  ╛      ╜      ╝    ²  ╞  ╒    c  ё  ╟        ╠  Ф  ╡  Ё  ╢    *  ╣  f    e  d  ╤  ╥  ╦  ╧  ╨  ╩  ╪  ё  (  ╟  &  %  ╫  ╬       !     ©  ╬    ю  (  ╘  -  б  ц  д  /  ╛  е  ф  г  х  1  0  и  г  ф  й  4  е  5  к  л  м  9  8  н  G  =  <  л  к  о  E  D  п  я  р  с  M  ╧  с  O  N  т  ▓  4  у  ж  в  ь  ы  з  ш  э  S  R  Y  X  щ  ч  ъ  Ю  ▓  А  V  ]  \  Б  W  р  Ц  Д  ╧  [  [  т  Е  Ф  Г  Х  S  э  И  a  `  Й  ж  c  К  Л  М  Н  ╦  ╥  О  П  Ф  ч    ~  Я  Р  ╝  i  i  ш  С  Т  У  Ж  щ   В  o  Ь  Ы  З  p  Ю  Ш  r  q  Э  Ж  Щ  Ч  Ъ  Х  x  |          |  {    │  z  ┐  ┌      ╟    з      ъ  ч    ▄  f  
+    █  Т    ▐  ▌    ╔    ≈  √    ⌠  ▓          ⌡          ≥          ·  ²                ║  ╝    ▐    ▄            !  "  #  $  %  &  '  (  !     )  *  +  ,  -  ╚  ╙  ╗  ╖  .  ╛  ╚  /  3  4  5  ╞  ²  6  7  8  9  :  ;  <  =  >  ?  ╡  Ф  П  
+  f  ╣  ╣    @  ╩  ╨  A  ╬  B     C  D  E  F  у  G  H  б  I  J  а  )  K  L  M  ц  б  H  N  O  P  а  J  Q  R  S  T  M  с  р  с  ╧  U  ▓  у  V  в  ж  W    з  ы  ▓  V  А  V  А  X  U  ╧  Д  Y  Z  [  \  Е  т  ]  ^  _  Г  Ф  `  	  a  b  К  c  c  М  Л  d  e  ╝  Р  Ы  Ь  f  g  С  ш  h  i  j  У  Щ  Ж  щ   k  В  o  В  l  m  n  o  i  h  p  q  r  s  t  Ъ  u  r  q  v  Х  Ъ  z    {  |  }  ~    ─  │  ┌  ┐  └  ┘  ├  ┐  ┤    ╟  ┬  a  	  ┬  ▄  
+  ┴  ┼  ▀  ▄  █  ▌  ▐  ╔    ░      ▒       ▓          ²  ⌠  ■          ∙      щ   ╝  ║  √    ╝  ≈      ≤  ≥     ⌡  $  #  °  ²  (  '  +  *  ·  ╚  -  ÷  /  ╚  ═  ║  ╛  /  4  3  ё  ╓  ╔  ╕  ╖  ╗  ╘  8  7  ╙  ;  :  ╚  >  =  ╛  ╜  {    ╝  @    ╞  ╟  ╠  │  ─  ╡  B  ╬  ╤  ╥  ╦  ╧  D  C  ╨  V  у  F  ╩  ╪  ╫  L  K  ╬  O  N  ©  ю  а  б  S  R  ц  д  е  ф  г  └  ├  Z  Y  х  X  А  и  U  Д  й  к  л  м  н  о  п  ^  ]  я  └  г  р  ╟  ╞  с  т  Щ  У  ~  }  у  (  ╝  e  e  Р  ж  в  ╘  ь  щ      k  ы  з  ш  l  В  э  n  m  щ  ь  ╗  ч  ъ  Ъ  t  x  Ю  А  Ю  x  w  Ц  Д  Е  ├  └  ┐  ┘  └  Ф  Г  Х  И  Х  Й  К  Л  ┴  
+  М  ▀  ┼  Н  ╒  0  ▌  █  О  П  Я  Р  ⌠  ²  С    ■  Т  щ   У     щ     У  Ж  В  Ь  В  Ж  Ы  ≈  ╝  ²  k     ≥  ²  ╝  (  ▀  М  ▌    ъ  З  Ш  Э  Щ  Ч  Ъ   	  	  ж  Р  Э  Ш  	  	  ╗  ╖  ╔  ╓  	  ╘  ╗  ь  Д  Ц  	  {  ╜  	  	  		  
+	  	  	  	  ╪  ╩  	  	  ю  	  ╦  ╥  	  	  й  Д  а  ю  	  е  д  	  	  н  	  л  к  	  о  н  	  	  Щ  т  з  ы  	  Ъ  Ч  	  З  ъ  	  Ъ  ъ  	  	  	  	  Щ  	  	  	  	   	  Й  Х  Г  	  	  Ё  !	  "	  #	  ╒  Н  $	  Я  П  %	  ъ    &	  ╗  	  '	  		  	  (	  )	  *	  +	  	  	  ,	  -	  	  	  "	  !	  .	  	  -	  ┼  *	  )	  /	  
